@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "realms_of_nine:threaded_fates"
+    },
+    "1": {
+      "item": "realms_of_nine:fated_leather"
+    },
+    "2": {
+      "item": "realms_of_nine:threaded_fates"
+    },
+    "3": {
+      "item": "realms_of_nine:fated_leather"
+    },
+    "4": {
+      "item": "minecraft:chest"
+    },
+    "5": {
+      "item": "realms_of_nine:fated_leather"
+    },
+    "6": {
+      "item": "realms_of_nine:midgardian_steel_ingot"
+    },
+    "7": {
+      "item": "realms_of_nine:fated_leather"
+    },
+    "8": {
+      "item": "realms_of_nine:midgardian_steel_ingot"
+    }
+  },
+  "result": {
+    "item": "realms_of_nine:midgardian_satchel",
+    "count": 1
+  }
+}

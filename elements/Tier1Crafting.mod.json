@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ThreadedFates"
+      },
+      {
+        "value": "CUSTOM:FatedLeather"
+      },
+      {
+        "value": "CUSTOM:ThreadedFates"
+      },
+      {
+        "value": "CUSTOM:FatedLeather"
+      },
+      {
+        "value": "Blocks.CHEST"
+      },
+      {
+        "value": "CUSTOM:FatedLeather"
+      },
+      {
+        "value": "CUSTOM:Midgardian_SteelIngot"
+      },
+      {
+        "value": "CUSTOM:FatedLeather"
+      },
+      {
+        "value": "CUSTOM:Midgardian_SteelIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MidgardianSatchel"
+    },
+    "name": "tier_1_crafting",
+    "namespace": "mod"
+  }
+}

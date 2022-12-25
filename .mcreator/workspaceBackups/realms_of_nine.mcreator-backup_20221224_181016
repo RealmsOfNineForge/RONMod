@@ -1,0 +1,2024 @@
+{
+  "mod_elements": [
+    {
+      "name": "Midgardian_SteelIngot",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_steel_ingot",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "Midgardian_SteelOre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_steel_ore",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "Midgardian_SteelBlock",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_steel_block",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "Midgardian_SteelOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_steel_ore_block_recipe",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "Midgardian_SteelBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_steel_block_ore_recipe",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "Midgardian_SteelOreSmelting",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_steel_ore_smelting",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "Midgardian_SteelPickaxe",
+      "type": "tool",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_steel_pickaxe",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "Midgardian_SteelAxe",
+      "type": "tool",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_steel_axe",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "Midgardian_SteelSword",
+      "type": "tool",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_steel_sword",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "Midgardian_SteelShovel",
+      "type": "tool",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_steel_shovel",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "Midgardian_SteelHoe",
+      "type": "tool",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_steel_hoe",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "Midgardian_SteelPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_steel_pickaxe_recipe",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "Midgardian_SteelAxeRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_steel_axe_recipe",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "Midgardian_SteelSwordRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_steel_sword_recipe",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "Midgardian_SteelShovelRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_steel_shovel_recipe",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "Midgardian_SteelHoeRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_steel_hoe_recipe",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "Midgardian_SteelArmor",
+      "type": "armor",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_steel_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Midgard"
+    },
+    {
+      "name": "Midgardian_SteelArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_steel_armor_helmet_recipe",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "Midgardian_SteelArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_steel_armor_body_recipe",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "Midgardian_SteelArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_steel_armor_leggings_recipe",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "Midgardian_SteelArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_steel_armor_boots_recipe",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "RiseOFTheNine",
+      "type": "tab",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rise_of_the_nine"
+    },
+    {
+      "name": "RiseOfTheNineTools",
+      "type": "tab",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rise_of_the_nine_tools"
+    },
+    {
+      "name": "RiseOfTheNineRealmsArmour",
+      "type": "tab",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rise_of_the_nine_realms_armour"
+    },
+    {
+      "name": "Midgard",
+      "type": "dimension",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgard_realm",
+      "metadata": {
+        "ep": true
+      },
+      "path": "~/Yggdrasil"
+    },
+    {
+      "name": "MidgardianNuggets",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_nuggets",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "IngotToNuggetMidgard",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ingot_to_nugget_midgard",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "NuggetToIngotMidgard",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nugget_to_ingot_midgard",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "FruitOfTheWorld",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fruit_of_the_world",
+      "path": "~/Yggdrasil/Yggdrasil Items"
+    },
+    {
+      "name": "YggdrasilRoots",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yggdrasil_roots_fibers",
+      "path": "~/Yggdrasil/Yggdrasil Items"
+    },
+    {
+      "name": "WorldTreeRoots",
+      "type": "plant",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yggdrasil_roots",
+      "path": "~/Yggdrasil/Yggdrasil Items"
+    },
+    {
+      "name": "ThreadedFates",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "threaded_fates",
+      "path": "~/Yggdrasil/Yggdrasil Items"
+    },
+    {
+      "name": "MidgardianHammer",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_hammer",
+      "path": "~/Yggdrasil"
+    },
+    {
+      "name": "Midgardian",
+      "type": "livingentity",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "MidgardianDrops",
+      "type": "loottable",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_drops",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "DwarvenCoal",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_coal",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenCoalOre",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_coal_ore",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenCoalBlock",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_coal_block",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenCoalOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_coal_ore_block_recipe",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenCoalBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_coal_block_ore_recipe",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenCoalOreSmelting",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_coal_ore_smelting",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwavenCoalFuel",
+      "type": "itemextension",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwaven_coal_fuel",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "BlockOfDawvenCoalFuel",
+      "type": "itemextension",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_of_dawven_coal_fuel",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "YggdrasilRootsDrops",
+      "type": "loottable",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yggdrasil_roots_drops",
+      "path": "~/Yggdrasil/Yggdrasil Items"
+    },
+    {
+      "name": "Wisp",
+      "type": "livingentity",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wisp",
+      "path": "~/Yggdrasil"
+    },
+    {
+      "name": "Wisps",
+      "type": "particle",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wisps",
+      "path": "~/Yggdrasil"
+    },
+    {
+      "name": "RootInfusedStone",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "root_infused_stone",
+      "path": "~/Yggdrasil"
+    },
+    {
+      "name": "Rootinfusedstonerecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rootinfusedstonerecipe",
+      "path": "~/Yggdrasil"
+    },
+    {
+      "name": "MidgardBiome",
+      "type": "biome",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgard",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "WipsDrops",
+      "type": "loottable",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wips_drops",
+      "path": "~/Yggdrasil"
+    },
+    {
+      "name": "SteelOre",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_ore",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "Mead",
+      "type": "item",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mead",
+      "path": "~/Bottles"
+    },
+    {
+      "name": "BigGlassBottle",
+      "type": "item",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_glass_bottle",
+      "path": "~/Bottles"
+    },
+    {
+      "name": "BigGlassBottleRecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_glass_bottle_recipe",
+      "path": "~/Bottles"
+    },
+    {
+      "name": "DistilledWater",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "distilled_water",
+      "path": "~/Bottles"
+    },
+    {
+      "name": "DistillWater",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "distill_water",
+      "path": "~/Bottles"
+    },
+    {
+      "name": "MeadRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mead_recipe",
+      "path": "~/Bottles"
+    },
+    {
+      "name": "Cider",
+      "type": "item",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cider",
+      "path": "~/Bottles"
+    },
+    {
+      "name": "CiderRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cider_recipe",
+      "path": "~/Bottles"
+    },
+    {
+      "name": "Ale",
+      "type": "item",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ale",
+      "path": "~/Bottles"
+    },
+    {
+      "name": "AleRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ale_recipe",
+      "path": "~/Bottles"
+    },
+    {
+      "name": "WispyEssence",
+      "type": "item",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wispy_essence",
+      "path": "~/Yggdrasil"
+    },
+    {
+      "name": "Svartelheim",
+      "type": "dimension",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "svartelheim",
+      "metadata": {
+        "ep": true
+      },
+      "path": "~/Yggdrasil"
+    },
+    {
+      "name": "SvartelheimMines",
+      "type": "biome",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "svartelheim_mines",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "SvartelheimPortalStone",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "svartelheim_portal_stone",
+      "path": "~/Yggdrasil"
+    },
+    {
+      "name": "DeepslateDwarvenCoal",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_dwarven_coal",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenCoalDrops",
+      "type": "loottable",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_coal_drops",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DeepslateDwarvenCoalOreDrops",
+      "type": "loottable",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_dwarven_coal_ore_drops",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "RawSteelOre",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_steel_ore",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "SteelBlasting",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_blasting",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "SteelOreDrops",
+      "type": "loottable",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_ore_drops",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "DeepslateSteelOreDrops",
+      "type": "loottable",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_steel_ore_drops",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "DwarvenMetalIngot",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_metal_ingot",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenMetalOre",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_metal_ore",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenMetalBlock",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_metal_block",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenMetalOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_metal_ore_block_recipe",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenMetalBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_metal_block_ore_recipe",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenMetalOreSmelting",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_metal_ore_smelting",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DeepslateDwarvenMetalOre",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_dwarven_metal_ore",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenPickaxe",
+      "type": "tool",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_pickaxe",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenAxe",
+      "type": "tool",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_axe",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenSword",
+      "type": "tool",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_sword",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenShovel",
+      "type": "tool",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_shovel",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenHoe",
+      "type": "tool",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_hoe",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_pickaxe_recipe",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenAxeRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_axe_recipe",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenSwordRecipe",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_sword_recipe",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenShovelRecipe",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_shovel_recipe",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenHoeRecipe",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_hoe_recipe",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "RawDwarvenMetalOre",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_dwarven_metal_ore",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenMetalOreDrops",
+      "type": "loottable",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_metal_ore_drops",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DeepslateDwarvenMetalOreDrops",
+      "type": "loottable",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_dwarven_metal_ore_drops",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenMetalNuggets",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_metal_nuggets",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenNuggetsRecipe",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_nuggets_recipe",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenNuggetToIngotRecipe",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_nugget_to_ingot_recipe",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenArmor",
+      "type": "armor",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_armor_helmet_recipe",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_armor_body_recipe",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_armor_leggings_recipe",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "DwarvenArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_armor_boots_recipe",
+      "path": "~/Svartelheim"
+    },
+    {
+      "name": "MidgardPortalParticle",
+      "type": "particle",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgard_portal_particle",
+      "path": "~/Yggdrasil"
+    },
+    {
+      "name": "RootedBricks",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rooted_bricks",
+      "path": "~/Yggdrasil"
+    },
+    {
+      "name": "RootedBrickRecipe",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rooted_brick_recipe",
+      "path": "~/Yggdrasil"
+    },
+    {
+      "name": "SvartelheimPortalParticles",
+      "type": "particle",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "svartelheim_portal_particles",
+      "path": "~/Yggdrasil"
+    },
+    {
+      "name": "FatedLeather",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fated_leather",
+      "path": "~/Yggdrasil/Yggdrasil Items"
+    },
+    {
+      "name": "FatedLeatherRecipe",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fated_leather_recipe",
+      "path": "~/Yggdrasil"
+    },
+    {
+      "name": "Alfcrystal",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfcrystal",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "AlfcrystalOre",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfcrystal_ore",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "AlfcrystalBlock",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfcrystal_block",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "AlfcrystalOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfcrystal_ore_block_recipe",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "AlfcrystalBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfcrystal_block_ore_recipe",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "AlfcrystalOreSmelting",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfcrystal_ore_smelting",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "AlfcrystalPickaxe",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfcrystal_pickaxe",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "AlfcrystalAxe",
+      "type": "tool",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfcrystal_axe",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "AlfcrystalSword",
+      "type": "tool",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfcrystal_sword",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "AlfcrystalShovel",
+      "type": "tool",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfcrystal_shovel",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "AlfcrystalHoe",
+      "type": "tool",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfcrystal_hoe",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "AlfcrystalPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfcrystal_pickaxe_recipe",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "AlfcrystalAxeRecipe",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfcrystal_axe_recipe",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "AlfcrystalSwordRecipe",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfcrystal_sword_recipe",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "AlfcrystalShovelRecipe",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfcrystal_shovel_recipe",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "AlfcrystalHoeRecipe",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfcrystal_hoe_recipe",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "AlfcrystalArmor",
+      "type": "armor",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfcrystal_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "AlfcrystalArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfcrystal_armor_helmet_recipe",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "AlfcrystalArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfcrystal_armor_body_recipe",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "AlfcrystalArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfcrystal_armor_leggings_recipe",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "AlfcrystalArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfcrystal_armor_boots_recipe",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "VanaCrystal",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vana_crystal",
+      "path": "~/Vanaheim"
+    },
+    {
+      "name": "VanaCrystalBlock",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vana_crystal_block",
+      "path": "~/Vanaheim"
+    },
+    {
+      "name": "VanaCrystalOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vana_crystal_ore_block_recipe",
+      "path": "~/Vanaheim"
+    },
+    {
+      "name": "VanaCrystalBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vana_crystal_block_ore_recipe",
+      "path": "~/Vanaheim"
+    },
+    {
+      "name": "VanaCrystalOreSmelting",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vana_crystal_ore_smelting",
+      "path": "~/Vanaheim"
+    },
+    {
+      "name": "UnrefinedVanaCrystal",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "unrefined_vana_crystal",
+      "path": "~/Vanaheim"
+    },
+    {
+      "name": "UnrefinedVanaCrystalRecipe",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "unrefined_vana_crystal_recipe",
+      "path": "~/Vanaheim"
+    },
+    {
+      "name": "SuperiorVanaCrystal",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superior_vana_crystal",
+      "path": "~/Vanaheim"
+    },
+    {
+      "name": "SuperiorVanaCrystalRecipe",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superior_vana_crystal_recipe",
+      "path": "~/Vanaheim"
+    },
+    {
+      "name": "SuperiorVanaCrystalBlock",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superior_vana_crystal_block",
+      "path": "~/Vanaheim"
+    },
+    {
+      "name": "SuperiorVanaCrystalBlockRecipe",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superior_vana_crystal_block_recipe",
+      "path": "~/Vanaheim"
+    },
+    {
+      "name": "SuperiorVanaCrystalRecipe2",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superior_vana_crystal_recipe_2",
+      "path": "~/Vanaheim"
+    },
+    {
+      "name": "Alfhiem",
+      "type": "biome",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfhiem",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "RealmsOfNine",
+      "type": "achievement",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "realms_of_nine",
+      "path": "~/Advancments"
+    },
+    {
+      "name": "YouMonster",
+      "type": "achievement",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "you_monster",
+      "path": "~/Advancments"
+    },
+    {
+      "name": "RealmHopper",
+      "type": "achievement",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "realm_hopper",
+      "path": "~/Advancments"
+    },
+    {
+      "name": "MidgardsCalling",
+      "type": "achievement",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgards_calling",
+      "path": "~/Advancments"
+    },
+    {
+      "name": "MidgardPlayerEntersDimension",
+      "type": "procedure",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgard_player_enters_dimension",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Yggdrasil"
+    },
+    {
+      "name": "LandOfTheMasterCrafters",
+      "type": "achievement",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "land_of_the_master_crafters",
+      "path": "~/Advancments"
+    },
+    {
+      "name": "Alfheim",
+      "type": "dimension",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfheim",
+      "metadata": {
+        "ep": true
+      },
+      "path": "~/Yggdrasil"
+    },
+    {
+      "name": "HomeOfTheLightElves",
+      "type": "achievement",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "home_of_the_light_elves",
+      "path": "~/Advancments"
+    },
+    {
+      "name": "AlfheimPlayerEntersDimension",
+      "type": "procedure",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfheim_player_enters_dimension",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Yggdrasil"
+    },
+    {
+      "name": "SvartelheimPlayerEntersDimension",
+      "type": "procedure",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "svartelheim_player_enters_dimension",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Yggdrasil"
+    },
+    {
+      "name": "AlfcrystalRecipe",
+      "type": "recipe",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfcrystal_recipe",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "LightElves",
+      "type": "livingentity",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_elf",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "Rootinfusedstonedrops",
+      "type": "loottable",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rootinfusedstonedrops",
+      "path": "~/Yggdrasil"
+    },
+    {
+      "name": "AlfcrystalOreDrops",
+      "type": "loottable",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alfcrystal_ore_drops",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "YggdrasilRootsExtenstion",
+      "type": "itemextension",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yggdrasil_roots_extenstion",
+      "path": "~/Yggdrasil/Yggdrasil Items"
+    },
+    {
+      "name": "DarkElf",
+      "type": "livingentity",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_elf",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "LightElvesDrops",
+      "type": "loottable",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_elves_drops",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "DarkElfLoot",
+      "type": "loottable",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_elf_loot",
+      "path": "~/Alfheim"
+    },
+    {
+      "name": "Raiders",
+      "type": "livingentity",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raiders",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "RaidersLoot",
+      "type": "loottable",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raiders_loot",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "Coals",
+      "type": "tag",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coals",
+      "path": "~/tags"
+    },
+    {
+      "name": "Ingots",
+      "type": "tag",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ingots",
+      "path": "~/tags"
+    },
+    {
+      "name": "Rawmaterials",
+      "type": "tag",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawmaterials",
+      "path": "~/tags"
+    },
+    {
+      "name": "Ores",
+      "type": "tag",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ores",
+      "path": "~/tags"
+    },
+    {
+      "name": "OresInGround",
+      "type": "tag",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ores_in_ground",
+      "path": "~/tags"
+    },
+    {
+      "name": "OreInGroundDeepslate",
+      "type": "tag",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ore_in_ground_deepslate",
+      "path": "~/tags"
+    },
+    {
+      "name": "CropBlocks",
+      "type": "tag",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crop_blocks",
+      "path": "~/tags"
+    },
+    {
+      "name": "Gems",
+      "type": "tag",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gems",
+      "path": "~/tags"
+    },
+    {
+      "name": "StorageBlock",
+      "type": "tag",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storage_block",
+      "path": "~/tags"
+    },
+    {
+      "name": "Crops",
+      "type": "tag",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crops",
+      "path": "~/tags"
+    },
+    {
+      "name": "Armor",
+      "type": "tag",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armor",
+      "path": "~/tags"
+    },
+    {
+      "name": "ArmorsLeggings",
+      "type": "tag",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armors_leggings",
+      "path": "~/tags"
+    },
+    {
+      "name": "ArmorsHelmets",
+      "type": "tag",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armors_helmets",
+      "path": "~/tags"
+    },
+    {
+      "name": "ArmorsBoots",
+      "type": "tag",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armors_boots",
+      "path": "~/tags"
+    },
+    {
+      "name": "ArmorsChestplates",
+      "type": "tag",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armors_chestplates",
+      "path": "~/tags"
+    },
+    {
+      "name": "Tools",
+      "type": "tag",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tools",
+      "path": "~/tags/tools"
+    },
+    {
+      "name": "ForgeAxe",
+      "type": "tag",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "forge_axe",
+      "path": "~/tags/tools"
+    },
+    {
+      "name": "ForgeSwords",
+      "type": "tag",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "forge_swords",
+      "path": "~/tags/tools"
+    },
+    {
+      "name": "ToolsAxe",
+      "type": "tag",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tools_axe",
+      "path": "~/tags/tools"
+    },
+    {
+      "name": "ToolsSwords",
+      "type": "tag",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tools_swords",
+      "path": "~/tags/tools"
+    },
+    {
+      "name": "Plants",
+      "type": "tag",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plants",
+      "path": "~/tags/steel"
+    },
+    {
+      "name": "OreSteel",
+      "type": "tag",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ore_steel",
+      "path": "~/tags/steel"
+    },
+    {
+      "name": "OresSteelItems",
+      "type": "tag",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ores_steel_items",
+      "path": "~/tags/steel"
+    },
+    {
+      "name": "RawMaterialsSteel",
+      "type": "tag",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_materials_steel",
+      "path": "~/tags/steel"
+    },
+    {
+      "name": "StorageBlocksSteel",
+      "type": "tag",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storage_blocks_steel",
+      "path": "~/tags/steel"
+    },
+    {
+      "name": "StorageBlocksSteelItemtag",
+      "type": "tag",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storage_blocks_steel_itemtag",
+      "path": "~/tags/steel"
+    },
+    {
+      "name": "IngotsSteel",
+      "type": "tag",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ingots_steel",
+      "path": "~/tags/steel"
+    },
+    {
+      "name": "NuggetsSteel",
+      "type": "tag",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nuggets_steel",
+      "path": "~/tags/steel"
+    },
+    {
+      "name": "ForgePickaxes",
+      "type": "tag",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "forge_pickaxes",
+      "path": "~/tags/tools"
+    },
+    {
+      "name": "ToolsPickaxes",
+      "type": "tag",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tools_pickaxes",
+      "path": "~/tags/tools"
+    },
+    {
+      "name": "ToolsHoe",
+      "type": "tag",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tools_hoe",
+      "path": "~/tags/tools"
+    },
+    {
+      "name": "ForgeHoes",
+      "type": "tag",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "forge_hoes",
+      "path": "~/tags/tools"
+    },
+    {
+      "name": "ForgeShovels",
+      "type": "tag",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "forge_shovels",
+      "path": "~/tags/tools"
+    },
+    {
+      "name": "ToolsShovels",
+      "type": "tag",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tools_shovels",
+      "path": "~/tags/tools"
+    },
+    {
+      "name": "DwarvenTorches",
+      "type": "recipe",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dwarven_torches",
+      "path": "~/Yggdrasil"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.realms_of_nine.dwarven_coal": "Dwarven Coal",
+      "item.realms_of_nine.svartelheim": "Dwarven Key Stone",
+      "block.realms_of_nine.deepslate_steel_ore": "Deepslate Wrought Iron Ore",
+      "item.realms_of_nine.alfcrystal_hoe": "Alfcrystal Hoe",
+      "item.realms_of_nine.dwarven_axe": "Dwarven Axe",
+      "advancements.land_of_the_master_crafters.title": "Land Of The Master Crafters",
+      "item.realms_of_nine.mead": "Mead",
+      "block.rise_of_the_norn.dwarven_coal_block": "Block of DwarvenCoal",
+      "item.realms_of_nine.big_glass_bottle": "Big Glass Bottle",
+      "itemGroup.tabrise_of_the_nine": "Realms Of Nine",
+      "entity.realms_of_nine.dark_elf": "Dark Elf",
+      "itemGroup.tabrise_of_the_nine_tools": "RON: Tools",
+      "entity.realms_of_nine.light_elf": "Light Elves",
+      "item.realms_of_nine.fated_leather": "Fated Leather",
+      "entity.realms_of_nine.raiders": "Raider",
+      "block.realms_of_nine.midgardian_steel_block": "Block of Wrought Iron",
+      "entity.rise_of_the_norn.wisp": "Wisp",
+      "item.realms_of_nine.dwarven_shovel": "Dwarven Shovel",
+      "block.realms_of_nine.yggdrasil_roots": "Yggdrasil Roots",
+      "block.realms_of_nine.root_infused_stone": "Rooted Stone",
+      "item.realms_of_nine.fruit_of_the_world": "Fruit Of The World",
+      "item.realms_of_nine.alfcrystal_armor_chestplate": "Alfcrystal Chestplate",
+      "block.realms_of_nine.dwarven_coal_ore": "Dwarven Coal Ore",
+      "item.realms_of_nine.wispy_essence": "Wispy Essence",
+      "item.realms_of_nine.light_elf_spawn_egg": "Light Elves Spawn Egg",
+      "item.realms_of_nine.distilled_water": "Distilled Water",
+      "block.realms_of_nine.dwarven_metal_block": "Block of Dwarven Metal",
+      "item.realms_of_nine.midgardian_steel_armor_chestplate": "Wrought Iron Chestplate",
+      "item.realms_of_nine.raw_steel_ore": "Raw Wrought Iron",
+      "item.realms_of_nine.raw_dwarven_metal_ore": "Raw Dwarven Metal",
+      "item.realms_of_nine.dwarven_sword": "Dwarven Sword",
+      "advancements.you_monster.title": "You Monster",
+      "item.rise_of_the_norn.fruit_of_the_world": "Fruit Of The World",
+      "item.realms_of_nine.vana_crystal": "Vanacrystal",
+      "block.realms_of_nine.deepslate_dwarven_metal_ore": "Deepslate Dwarven Metal Ore",
+      "item.rise_of_the_norn.midgardian_steel_pickaxe": "Midgardian Steel Pickaxe",
+      "block.realms_of_nine.steel_ore": "Wrought Iron Ore",
+      "advancements.midgards_calling.descr": "You find yourself in the forests of Midgard, wonder what you will find here",
+      "biome.rise_of_the_norn.midgard_biome": "Midgard",
+      "item.realms_of_nine.cider": "Cider",
+      "block.realms_of_nine.superior_vana_crystal_block": "Block of Supeior Vana Crystals",
+      "item.realms_of_nine.raiders_spawn_egg": "Raider Spawn Egg",
+      "entity.realms_of_nine.midgardian": "Midgardian",
+      "item.realms_of_nine.alfcrystal_axe": "Alfcrystal Axe",
+      "block.realms_of_nine.rooted_bricks": "Rooted Bricks",
+      "block.realms_of_nine.dwarven_metal_ore": "DwarvenMetal Ore",
+      "item.realms_of_nine.midgardian_steel_sword": "Wrought Iron Sword",
+      "item.realms_of_nine.superior_vana_crystal": "Superior Vanacrystal",
+      "item.rise_of_the_norn.dwarven_coal": "Dwarven Coal",
+      "advancements.realms_of_nine.title": "Realms Of Nine",
+      "item.rise_of_the_norn.midgardian_steel_armor_chestplate": "Midgardian Steel Chestplate",
+      "item.realms_of_nine.midgardian_steel_armor_helmet": "Wrought Iron Helmet",
+      "item.realms_of_nine.dwarven_metal_ingot": "Dwarven Metal Ingot",
+      "item.rise_of_the_norn.wisp_spawn_egg": "Wisp Spawn Egg",
+      "advancements.realm_hopper.descr": "Form the overworld to Asgard, travel well explorer",
+      "item.rise_of_the_norn.midgardian_steel_shovel": "Midgardian Steel Shovel",
+      "item.realms_of_nine.midgard_realm": "Wrought Iron Hammer",
+      "item.realms_of_nine.alfheim": "Alfheim Portal Pearl",
+      "item.realms_of_nine.alfcrystal_armor_boots": "Alfcrystal Boots",
+      "item.realms_of_nine.alfcrystal_armor_leggings": "Alfcrystal Leggings",
+      "advancements.land_of_the_master_crafters.descr": "Svartelheim home to the Dwarves and a great abundence of Ores",
+      "item.rise_of_the_norn.threaded_fates": "Threaded Fates",
+      "block.realms_of_nine.dwarven_coal_block": "Block of DwarvenCoal",
+      "item.realms_of_nine.wisp_spawn_egg": "Will o\u0027 Wisp Spawn Egg",
+      "item.rise_of_the_norn.midgardian_steel_axe": "Midgardian Steel Axe",
+      "item.rise_of_the_norn.midgard": "Midgardian Hammer",
+      "block.realms_of_nine.alfcrystal_block": "Block of Alfcrystal",
+      "item.realms_of_nine.dwarven_armor_boots": "Dwarven Boots",
+      "item.rise_of_the_norn.midgardian_steel_armor_leggings": "Midgardian Steel Leggings",
+      "item.realms_of_nine.dwarven_metal_nuggets": "Dwarven Metal Nuggets",
+      "item.realms_of_nine.yggdrasil_roots_fibers": "Yggdrasil Root Fibers",
+      "item.realms_of_nine.midgardian_steel_armor_leggings": "Wrought Iron Leggings",
+      "biome.realms_of_nine.alfhiem": "Alfhiem",
+      "item.realms_of_nine.dwarven_armor_helmet": "Dwarven Helmet",
+      "item.realms_of_nine.alfcrystal_pickaxe": "Alfcrystal Pickaxe",
+      "entity.rise_of_the_norn.midgardian": "Midgardian",
+      "block.rise_of_the_norn.midgardian_steel_ore": "Midgard Steel Ore",
+      "entity.realms_of_nine.wisp": "Will o\u0027 Wisp",
+      "itemGroup.tabrise_of_the_nine_realms_armour": "RON: Armor \u0026 Weapons",
+      "item.realms_of_nine.dark_elf_spawn_egg": "Dark Elf Spawn Egg",
+      "item.rise_of_the_norn.yggdrasil_roots_fibers": "Yggdrasil Root Fibers",
+      "item.realms_of_nine.alfcrystal_sword": "Alfcrystal Sword",
+      "item.realms_of_nine.unrefined_vana_crystal": "Unrefined Vanacrystal",
+      "advancements.realm_hopper.title": "Realm Hopper",
+      "biome.realms_of_nine.svartelheim_mines": "Svartelheim Mines",
+      "item.rise_of_the_norn.midgardian_steel_sword": "Midgardian Steel Sword",
+      "item.realms_of_nine.ale": "Ale",
+      "item.realms_of_nine.midgardian_steel_axe": "Wrought Iron Axe",
+      "block.rise_of_the_norn.midgardian_steel_block": "Block of Steel",
+      "advancements.realms_of_nine.descr": "The power of the world tree, not really only fibers",
+      "item.rise_of_the_norn.midgardian_steel_armor_helmet": "Midgardian Steel Helmet",
+      "advancements.home_of_the_light_elves.title": "Home Of The Elves",
+      "item.rise_of_the_norn.midgardian_steel_armor_boots": "Midgardian Steel Boots",
+      "item.realms_of_nine.dwarven_armor_leggings": "Dwarven Leggings",
+      "item.rise_of_the_norn.midgardian_nuggets": "Midgardian Nuggets",
+      "item.realms_of_nine.midgardian_steel_ingot": "Wrought Iron Ingot",
+      "advancements.home_of_the_light_elves.descr": "Alfheim, Home to both the light and drak elves",
+      "item.realms_of_nine.dwarven_pickaxe": "Dwarven Pickaxe",
+      "item.realms_of_nine.alfcrystal": "Alfcrystal",
+      "item.realms_of_nine.alfcrystal_armor_helmet": "Alfcrystal Helmet",
+      "item.realms_of_nine.threaded_fates": "Thread of Fate",
+      "item.realms_of_nine.dwarven_hoe": "Dwarven Hoe",
+      "block.realms_of_nine.alfcrystal_ore": "Alfcrystal Ore",
+      "item.realms_of_nine.midgardian_steel_armor_boots": "Wrought Iron  Boots",
+      "block.rise_of_the_norn.dwarven_coal_ore": "DwarvenCoal Ore",
+      "block.rise_of_the_norn.root_infused_stone": "Rooted Stone",
+      "advancements.you_monster.descr": "How dare you Kill somethng that cant fight back",
+      "item.rise_of_the_norn.midgardian_steel_hoe": "Midgardian Steel Hoe",
+      "item.realms_of_nine.midgardian_spawn_egg": "Midgardian Spawn Egg",
+      "block.rise_of_the_norn.yggdrasil_roots": "Yggdrasil Roots",
+      "item.realms_of_nine.dwarven_armor_chestplate": "Dwarven Chestplate",
+      "item.realms_of_nine.midgardian_steel_hoe": "Wrought Iron Hoe",
+      "advancements.midgards_calling.title": "Midgard\u0027s Calling",
+      "item.rise_of_the_norn.midgardian_steel_ingot": "Steel Ingot",
+      "item.realms_of_nine.midgardian_steel_pickaxe": "Wrought Iron Pickaxe",
+      "item.rise_of_the_norn.midgardian_spawn_egg": "Midgardian Spawn Egg",
+      "item.realms_of_nine.midgardian_steel_shovel": "Wrought Iron Shovel",
+      "item.realms_of_nine.alfcrystal_shovel": "Alfcrystal Shovel",
+      "biome.realms_of_nine.midgard": "Midgard",
+      "item.realms_of_nine.midgardian_nuggets": "Wrought Iron Nuggets",
+      "block.realms_of_nine.vana_crystal_block": "Vanacrystal Block",
+      "block.realms_of_nine.deepslate_dwarven_coal": "Deepslate Dwarven Coal"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Midgard",
+        "children": []
+      },
+      {
+        "name": "Yggdrasil",
+        "children": [
+          {
+            "name": "Yggdrasil Items",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Svartelheim",
+        "children": []
+      },
+      {
+        "name": "Bottles",
+        "children": []
+      },
+      {
+        "name": "Alfheim",
+        "children": []
+      },
+      {
+        "name": "Vanaheim",
+        "children": []
+      },
+      {
+        "name": "Advancments",
+        "children": []
+      },
+      {
+        "name": "tags",
+        "children": [
+          {
+            "name": "tools",
+            "children": []
+          },
+          {
+            "name": "steel",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Backpacks",
+        "children": [
+          {
+            "name": "GUI",
+            "children": []
+          },
+          {
+            "name": "Item",
+            "children": []
+          },
+          {
+            "name": "Crafting",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "realms_of_nine",
+    "modName": "Realms Of Nine",
+    "version": "0.1.8.5",
+    "description": "Travel to The Nine Realms and Explore new dimensions and face new creatures",
+    "author": "OracleOfDarkness, SuperBenji99",
+    "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/realms-of-nine",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "midgardianhammer",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Models made using Blockbench, Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.realmsofnine",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}
