@@ -1802,6 +1802,51 @@
       "locked_code": false,
       "registry_name": "dwarven_torches",
       "path": "~/Yggdrasil"
+    },
+    {
+      "name": "Tier1GUI",
+      "type": "gui",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tier_1_gui",
+      "path": "~/Backpacks/GUI"
+    },
+    {
+      "name": "Tier2GUI",
+      "type": "gui",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tier_2_gui",
+      "path": "~/Backpacks/GUI"
+    },
+    {
+      "name": "Tier3GUI",
+      "type": "gui",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tier_3_gui",
+      "path": "~/Backpacks/GUI"
+    },
+    {
+      "name": "MidgardianSatchel",
+      "type": "item",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "midgardian_satchel",
+      "path": "~/Backpacks/Item"
+    },
+    {
+      "name": "Tier1Crafting",
+      "type": "recipe",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tier_1_crafting",
+      "path": "~/Backpacks/Crafting"
     }
   ],
   "variable_elements": [],
@@ -1821,8 +1866,8 @@
       "entity.realms_of_nine.dark_elf": "Dark Elf",
       "itemGroup.tabrise_of_the_nine_tools": "RON: Tools",
       "entity.realms_of_nine.light_elf": "Light Elves",
-      "entity.realms_of_nine.raiders": "Raider",
       "item.realms_of_nine.fated_leather": "Fated Leather",
+      "entity.realms_of_nine.raiders": "Raider",
       "block.realms_of_nine.midgardian_steel_block": "Block of Wrought Iron",
       "entity.rise_of_the_norn.wisp": "Wisp",
       "item.realms_of_nine.dwarven_shovel": "Dwarven Shovel",
@@ -1835,8 +1880,8 @@
       "item.realms_of_nine.light_elf_spawn_egg": "Light Elves Spawn Egg",
       "item.realms_of_nine.distilled_water": "Distilled Water",
       "block.realms_of_nine.dwarven_metal_block": "Block of Dwarven Metal",
-      "item.realms_of_nine.raw_steel_ore": "Raw Wrought Iron",
       "item.realms_of_nine.midgardian_steel_armor_chestplate": "Wrought Iron Chestplate",
+      "item.realms_of_nine.raw_steel_ore": "Raw Wrought Iron",
       "item.realms_of_nine.raw_dwarven_metal_ore": "Raw Dwarven Metal",
       "item.realms_of_nine.dwarven_sword": "Dwarven Sword",
       "advancements.you_monster.title": "You Monster",
@@ -1849,6 +1894,7 @@
       "biome.rise_of_the_norn.midgard_biome": "Midgard",
       "item.realms_of_nine.cider": "Cider",
       "block.realms_of_nine.superior_vana_crystal_block": "Block of Supeior Vana Crystals",
+      "item.realms_of_nine.midgardian_satchel": "Midgardian Satchel",
       "item.realms_of_nine.raiders_spawn_egg": "Raider Spawn Egg",
       "entity.realms_of_nine.midgardian": "Midgardian",
       "item.realms_of_nine.alfcrystal_axe": "Alfcrystal Axe",
@@ -1977,6 +2023,23 @@
           },
           {
             "name": "steel",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Backpacks",
+        "children": [
+          {
+            "name": "GUI",
+            "children": []
+          },
+          {
+            "name": "Item",
+            "children": []
+          },
+          {
+            "name": "Crafting",
             "children": []
           }
         ]

@@ -31,6 +31,7 @@ import net.minecraft.network.FriendlyByteBuf;
 
 import net.mcreator.realmsofnine.init.RealmsOfNineModTabs;
 import net.mcreator.realmsofnine.init.RealmsOfNineModParticleTypes;
+import net.mcreator.realmsofnine.init.RealmsOfNineModMenus;
 import net.mcreator.realmsofnine.init.RealmsOfNineModItems;
 import net.mcreator.realmsofnine.init.RealmsOfNineModFeatures;
 import net.mcreator.realmsofnine.init.RealmsOfNineModEntities;
@@ -61,7 +62,7 @@ public class RealmsOfNineMod {
 		RealmsOfNineModFeatures.REGISTRY.register(bus);
 
 		RealmsOfNineModParticleTypes.REGISTRY.register(bus);
-
+		RealmsOfNineModMenus.REGISTRY.register(bus);
 		RealmsOfNineModBiomes.REGISTRY.register(bus);
 	}
 

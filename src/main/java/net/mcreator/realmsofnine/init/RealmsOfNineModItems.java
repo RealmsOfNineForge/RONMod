@@ -30,6 +30,7 @@ import net.mcreator.realmsofnine.item.Midgardian_SteelIngotItem;
 import net.mcreator.realmsofnine.item.Midgardian_SteelHoeItem;
 import net.mcreator.realmsofnine.item.Midgardian_SteelAxeItem;
 import net.mcreator.realmsofnine.item.Midgardian_SteelArmorItem;
+import net.mcreator.realmsofnine.item.MidgardianSatchelItem;
 import net.mcreator.realmsofnine.item.MidgardianNuggetsItem;
 import net.mcreator.realmsofnine.item.MidgardItem;
 import net.mcreator.realmsofnine.item.MeadItem;
@@ -168,6 +169,7 @@ public class RealmsOfNineModItems {
 			() -> new AlfcrystalArmorItem.Leggings());
 	public static final RegistryObject<Item> ALFCRYSTAL_ARMOR_BOOTS = REGISTRY.register("alfcrystal_armor_boots",
 			() -> new AlfcrystalArmorItem.Boots());
+	public static final RegistryObject<Item> MIDGARDIAN_SATCHEL = REGISTRY.register("midgardian_satchel", () -> new MidgardianSatchelItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));
