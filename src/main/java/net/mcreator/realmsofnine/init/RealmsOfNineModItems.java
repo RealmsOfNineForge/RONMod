@@ -170,6 +170,30 @@ public class RealmsOfNineModItems {
 	public static final RegistryObject<Item> ALFCRYSTAL_ARMOR_BOOTS = REGISTRY.register("alfcrystal_armor_boots",
 			() -> new AlfcrystalArmorItem.Boots());
 	public static final RegistryObject<Item> MIDGARDIAN_SATCHEL = REGISTRY.register("midgardian_satchel", () -> new MidgardianSatchelItem());
+	public static final RegistryObject<Item> ASH_WOOD = block(RealmsOfNineModBlocks.ASH_WOOD, RealmsOfNineModTabs.TAB_RISE_OF_THE_NINE);
+	public static final RegistryObject<Item> ASH_LOG = block(RealmsOfNineModBlocks.ASH_LOG, RealmsOfNineModTabs.TAB_RISE_OF_THE_NINE);
+	public static final RegistryObject<Item> ASH_PLANKS = block(RealmsOfNineModBlocks.ASH_PLANKS, RealmsOfNineModTabs.TAB_RISE_OF_THE_NINE);
+	public static final RegistryObject<Item> ASH_LEAVES = block(RealmsOfNineModBlocks.ASH_LEAVES, CreativeModeTab.TAB_DECORATIONS);
+	public static final RegistryObject<Item> ASH_STAIRS = block(RealmsOfNineModBlocks.ASH_STAIRS, RealmsOfNineModTabs.TAB_RISE_OF_THE_NINE);
+	public static final RegistryObject<Item> ASH_SLAB = block(RealmsOfNineModBlocks.ASH_SLAB, RealmsOfNineModTabs.TAB_RISE_OF_THE_NINE);
+	public static final RegistryObject<Item> ASH_FENCE = block(RealmsOfNineModBlocks.ASH_FENCE, CreativeModeTab.TAB_DECORATIONS);
+	public static final RegistryObject<Item> ASH_FENCE_GATE = block(RealmsOfNineModBlocks.ASH_FENCE_GATE, CreativeModeTab.TAB_REDSTONE);
+	public static final RegistryObject<Item> ASH_PRESSURE_PLATE = block(RealmsOfNineModBlocks.ASH_PRESSURE_PLATE, CreativeModeTab.TAB_REDSTONE);
+	public static final RegistryObject<Item> ASH_BUTTON = block(RealmsOfNineModBlocks.ASH_BUTTON, RealmsOfNineModTabs.TAB_RISE_OF_THE_NINE);
+	public static final RegistryObject<Item> NEW_ASH_TEXTURE_WOOD = block(RealmsOfNineModBlocks.NEW_ASH_TEXTURE_WOOD,
+			RealmsOfNineModTabs.TAB_RISE_OF_THE_NINE);
+	public static final RegistryObject<Item> NEW_ASH_TEXTURE_LOG = block(RealmsOfNineModBlocks.NEW_ASH_TEXTURE_LOG,
+			RealmsOfNineModTabs.TAB_RISE_OF_THE_NINE);
+	public static final RegistryObject<Item> NEW_ASH_TEXTURE_PLANKS = block(RealmsOfNineModBlocks.NEW_ASH_TEXTURE_PLANKS,
+			RealmsOfNineModTabs.TAB_RISE_OF_THE_NINE);
+	public static final RegistryObject<Item> NEW_ASH_TEXTURE_STAIRS = block(RealmsOfNineModBlocks.NEW_ASH_TEXTURE_STAIRS,
+			RealmsOfNineModTabs.TAB_RISE_OF_THE_NINE);
+	public static final RegistryObject<Item> NEW_ASH_TEXTURE_SLAB = block(RealmsOfNineModBlocks.NEW_ASH_TEXTURE_SLAB,
+			RealmsOfNineModTabs.TAB_RISE_OF_THE_NINE);
+	public static final RegistryObject<Item> NEW_ASH_TEXTURE_FENCE = block(RealmsOfNineModBlocks.NEW_ASH_TEXTURE_FENCE,
+			CreativeModeTab.TAB_DECORATIONS);
+	public static final RegistryObject<Item> NEW_ASH_TEXTURE_FENCE_GATE = block(RealmsOfNineModBlocks.NEW_ASH_TEXTURE_FENCE_GATE,
+			CreativeModeTab.TAB_REDSTONE);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));

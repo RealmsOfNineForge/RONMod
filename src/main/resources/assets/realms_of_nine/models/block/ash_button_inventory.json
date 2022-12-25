@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "texture": "realms_of_nine:blocks/ash_planks"
+  },
+  "render_type": "solid"
+}
