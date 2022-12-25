@@ -1,0 +1,33 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Midgardian_SteelOre"
+      },
+      {
+        "value": "CUSTOM:DwarvenCoalOre"
+      },
+      {
+        "value": "CUSTOM:SteelOre"
+      },
+      {
+        "value": "CUSTOM:DwarvenMetalOre"
+      },
+      {
+        "value": "CUSTOM:DeepslateDwarvenMetalOre"
+      },
+      {
+        "value": "CUSTOM:AlfcrystalOre"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "ores",
+    "namespace": "forge"
+  }
+}

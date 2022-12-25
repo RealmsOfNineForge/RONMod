@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "realms_of_nine:dwarven_shovel",
+    "realms_of_nine:midgardian_steel_shovel",
+    "realms_of_nine:dwarven_pickaxe",
+    "realms_of_nine:alfcrystal_pickaxe",
+    "realms_of_nine:midgardian_steel_hoe",
+    "realms_of_nine:alfcrystal_shovel",
+    "realms_of_nine:midgardian_steel_sword",
+    "realms_of_nine:alfcrystal_axe",
+    "realms_of_nine:dwarven_hoe",
+    "realms_of_nine:midgardian_steel_pickaxe",
+    "realms_of_nine:dwarven_sword",
+    "realms_of_nine:midgardian_steel_axe",
+    "realms_of_nine:alfcrystal_hoe",
+    "realms_of_nine:dwarven_axe",
+    "realms_of_nine:alfcrystal_sword"
+  ]
+}

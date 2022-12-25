@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "realms_of_nine:fated_leather"
+    },
+    "1": {
+      "item": "realms_of_nine:fated_leather"
+    },
+    "2": {
+      "item": "realms_of_nine:fated_leather"
+    },
+    "3": {
+      "item": "realms_of_nine:dwarven_metal_ingot"
+    },
+    "5": {
+      "item": "realms_of_nine:dwarven_metal_ingot"
+    },
+    "6": {
+      "item": "realms_of_nine:dwarven_metal_ingot"
+    },
+    "8": {
+      "item": "realms_of_nine:dwarven_metal_ingot"
+    }
+  },
+  "result": {
+    "item": "realms_of_nine:dwarven_armor_leggings",
+    "count": 1
+  }
+}

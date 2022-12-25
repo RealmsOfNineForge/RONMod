@@ -1,0 +1,27 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:DwarvenCoalOre"
+      },
+      {
+        "value": "CUSTOM:SteelOre"
+      },
+      {
+        "value": "CUSTOM:DwarvenMetalOre"
+      },
+      {
+        "value": "CUSTOM:AlfcrystalOre"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "ores_in_ground/stone",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Midgardian_SteelAxe"
+      },
+      {
+        "value": "CUSTOM:DwarvenAxe"
+      },
+      {
+        "value": "CUSTOM:AlfcrystalAxe"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "tools/axes",
+    "namespace": "forge"
+  }
+}

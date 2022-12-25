@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="realms_of_nine"
+version="0.1.8.5"
+displayName="Realms Of Nine"
+credits="Models made using Blockbench, Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/realms-of-nine"
+logoFile="logo.png"
+authors="OracleOfDarkness, SuperBenji99"
+description='''
+Travel to The Nine Realms and Explore new dimensions and face new creatures
+'''
+
+[[dependencies.realms_of_nine]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

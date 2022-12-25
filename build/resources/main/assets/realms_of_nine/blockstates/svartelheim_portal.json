@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "realms_of_nine:block/svartelheim_portal_ew"
+    },
+    "axis=x": {
+      "model": "realms_of_nine:block/svartelheim_portal_ns"
+    }
+  }
+}

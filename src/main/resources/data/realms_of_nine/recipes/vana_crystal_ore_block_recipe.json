@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "realms_of_nine:vana_crystal"
+    },
+    "1": {
+      "item": "realms_of_nine:vana_crystal"
+    },
+    "2": {
+      "item": "realms_of_nine:vana_crystal"
+    },
+    "3": {
+      "item": "realms_of_nine:vana_crystal"
+    },
+    "4": {
+      "item": "realms_of_nine:vana_crystal"
+    },
+    "5": {
+      "item": "realms_of_nine:vana_crystal"
+    },
+    "6": {
+      "item": "realms_of_nine:vana_crystal"
+    },
+    "7": {
+      "item": "realms_of_nine:vana_crystal"
+    },
+    "8": {
+      "item": "realms_of_nine:vana_crystal"
+    }
+  },
+  "result": {
+    "item": "realms_of_nine:vana_crystal_block",
+    "count": 1
+  }
+}

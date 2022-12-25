@@ -1,0 +1,24 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Midgardian_SteelShovel"
+      },
+      {
+        "value": "CUSTOM:DwarvenShovel"
+      },
+      {
+        "value": "CUSTOM:AlfcrystalShovel"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "shovels",
+    "namespace": "forge"
+  }
+}

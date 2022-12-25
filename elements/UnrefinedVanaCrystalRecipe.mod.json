@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Alfcrystal"
+      },
+      {
+        "value": "CUSTOM:WispyEssence"
+      },
+      {
+        "value": "CUSTOM:Alfcrystal"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "CUSTOM:Alfcrystal"
+      },
+      {
+        "value": "CUSTOM:WispyEssence"
+      },
+      {
+        "value": "CUSTOM:Alfcrystal"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:UnrefinedVanaCrystal"
+    },
+    "name": "unrefined_vana_crystal_recipe",
+    "namespace": "mod"
+  }
+}

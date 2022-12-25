@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "steelaxe",
+    "customModelName": "Normal",
+    "name": "Wrought Iron Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:RiseOfTheNineTools"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 6.5,
+    "attackSpeed": 1.0,
+    "enchantability": 17,
+    "damageVsEntity": 12.5,
+    "usageCount": 456,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Midgardian_SteelIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "realms_of_nine:fated_leather"
+    },
+    "2": {
+      "item": "realms_of_nine:fated_leather"
+    },
+    "3": {
+      "item": "realms_of_nine:alfcrystal"
+    },
+    "5": {
+      "item": "realms_of_nine:alfcrystal"
+    }
+  },
+  "result": {
+    "item": "realms_of_nine:alfcrystal_armor_boots",
+    "count": 1
+  }
+}

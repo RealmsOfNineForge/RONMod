@@ -1,0 +1,45 @@
+{
+  "_fv": 34,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:MidgardBiome"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_WATER"
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "onPlayerEntersDimension": {
+      "name": "MidgardPlayerEntersDimension"
+    },
+    "portalFrame": {
+      "value": "CUSTOM:RootedBricks"
+    },
+    "portalParticles": {
+      "value": "CUSTOM:MidgardPortalParticle"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Wrought Iron Hammer",
+    "igniterTab": {
+      "value": "CUSTOM:RiseOfTheNineTools"
+    },
+    "texture": "midgardianhammer",
+    "portalTexture": "midgard_portal",
+    "enablePortal": true
+  }
+}

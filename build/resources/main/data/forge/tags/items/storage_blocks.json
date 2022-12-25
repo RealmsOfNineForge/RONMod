@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "realms_of_nine:dwarven_metal_block",
+    "realms_of_nine:vana_crystal_block",
+    "realms_of_nine:alfcrystal_block",
+    "realms_of_nine:midgardian_steel_block",
+    "realms_of_nine:dwarven_coal_block"
+  ]
+}

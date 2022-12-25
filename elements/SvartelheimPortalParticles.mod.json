@@ -1,0 +1,21 @@
+{
+  "_fv": 34,
+  "_type": "particle",
+  "definition": {
+    "texture": "svartelheim_portal_particles.png",
+    "animate": true,
+    "frameDuration": 5,
+    "width": 0.2,
+    "height": 0.2,
+    "scale": 0.30000000000000004,
+    "speedFactor": 0.30000000000000004,
+    "gravity": -0.5,
+    "maxAge": 10,
+    "maxAgeDiff": 2,
+    "angularVelocity": 0.0,
+    "angularAcceleration": -0.05,
+    "canCollide": true,
+    "alwaysShow": false,
+    "renderType": "TRANSLUCENT"
+  }
+}

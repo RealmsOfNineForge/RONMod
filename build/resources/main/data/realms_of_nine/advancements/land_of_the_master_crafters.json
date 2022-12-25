@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "realms_of_nine:svartelheim"
+    },
+    "title": {
+      "translate": "advancements.land_of_the_master_crafters.title"
+    },
+    "description": {
+      "translate": "advancements.land_of_the_master_crafters.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "land_of_the_master_crafters": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 25
+  },
+  "parent": "realms_of_nine:realms_of_nine"
+}

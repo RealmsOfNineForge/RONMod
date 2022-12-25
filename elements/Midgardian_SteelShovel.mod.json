@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "steelshovel",
+    "customModelName": "Normal",
+    "name": "Wrought Iron Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:RiseOfTheNineTools"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 1.0,
+    "enchantability": 17,
+    "damageVsEntity": 2.0,
+    "usageCount": 456,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Midgardian_SteelIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "realms_of_nine:blocks/rootedstoneore",
+    "up": "realms_of_nine:blocks/rootedstoneore",
+    "north": "realms_of_nine:blocks/rootedstoneore",
+    "east": "realms_of_nine:blocks/rootedstoneore",
+    "south": "realms_of_nine:blocks/rootedstoneore",
+    "west": "realms_of_nine:blocks/rootedstoneore",
+    "particle": "realms_of_nine:blocks/rootedstoneore"
+  },
+  "render_type": "solid"
+}

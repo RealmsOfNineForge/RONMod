@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "dwarven_sword",
+    "customModelName": "Normal",
+    "name": "Dwarven Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:RiseOfTheNineRealmsArmour"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 3,
+    "efficiency": 6.0,
+    "attackSpeed": 2.0,
+    "enchantability": 14,
+    "damageVsEntity": 6.0,
+    "usageCount": 1550,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:DwarvenMetalIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

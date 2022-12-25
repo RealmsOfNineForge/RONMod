@@ -1,0 +1,11 @@
+{
+  "_fv": 34,
+  "_type": "tab",
+  "definition": {
+    "name": "RON: Armor & Weapons",
+    "icon": {
+      "value": "CUSTOM:Midgardian_SteelArmor.body"
+    },
+    "showSearch": false
+  }
+}

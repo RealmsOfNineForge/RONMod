@@ -1,0 +1,62 @@
+{
+  "_fv": 34,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "dwarven_helmet",
+    "enableBody": true,
+    "textureBody": "dwarven_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "dwarven_leggings",
+    "enableBoots": true,
+    "textureBoots": "dwarven_boots",
+    "creativeTab": {
+      "value": "CUSTOM:RiseOfTheNineRealmsArmour"
+    },
+    "armorTextureFile": "dwarven_",
+    "helmetName": "Dwarven Helmet",
+    "bodyName": "Dwarven Chestplate",
+    "leggingsName": "Dwarven Leggings",
+    "bootsName": "Dwarven Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 25,
+    "damageValueHelmet": 3,
+    "damageValueBody": 8,
+    "damageValueLeggings": 6,
+    "damageValueBoots": 3,
+    "enchantability": 16,
+    "toughness": 3.2,
+    "knockbackResistance": 0.2,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:DwarvenMetalIngot"
+      }
+    ]
+  }
+}

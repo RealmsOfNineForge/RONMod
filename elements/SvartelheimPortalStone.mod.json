@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:WispyEssence"
+      },
+      {
+        "value": "CUSTOM:YggdrasilRoots"
+      },
+      {
+        "value": "CUSTOM:WispyEssence"
+      },
+      {
+        "value": "CUSTOM:WispyEssence"
+      },
+      {
+        "value": "CUSTOM:DwarvenCoal"
+      },
+      {
+        "value": "CUSTOM:WispyEssence"
+      },
+      {
+        "value": "CUSTOM:YggdrasilRoots"
+      },
+      {
+        "value": "CUSTOM:YggdrasilRoots"
+      },
+      {
+        "value": "CUSTOM:YggdrasilRoots"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Svartelheim"
+    },
+    "name": "svartelheim_portal_stone",
+    "namespace": "mod"
+  }
+}

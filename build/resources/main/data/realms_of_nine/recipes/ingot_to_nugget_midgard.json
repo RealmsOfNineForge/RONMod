@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "realms_of_nine:midgardian_steel_ingot"
+    }
+  ],
+  "result": {
+    "item": "realms_of_nine:midgardian_nuggets",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "realms_of_nine:dwarven_metal_block"
+    }
+  ],
+  "result": {
+    "item": "realms_of_nine:dwarven_metal_ingot",
+    "count": 9
+  }
+}

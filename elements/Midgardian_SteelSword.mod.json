@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "steelsword",
+    "customModelName": "Normal",
+    "name": "Wrought Iron Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:RiseOfTheNineRealmsArmour"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 1.5,
+    "enchantability": 17,
+    "damageVsEntity": 4.699999999999999,
+    "usageCount": 294,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Midgardian_SteelIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

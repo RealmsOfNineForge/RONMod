@@ -1,0 +1,60 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Midgardian_SteelPickaxe"
+      },
+      {
+        "value": "CUSTOM:Midgardian_SteelAxe"
+      },
+      {
+        "value": "CUSTOM:Midgardian_SteelSword"
+      },
+      {
+        "value": "CUSTOM:Midgardian_SteelShovel"
+      },
+      {
+        "value": "CUSTOM:Midgardian_SteelHoe"
+      },
+      {
+        "value": "CUSTOM:DwarvenPickaxe"
+      },
+      {
+        "value": "CUSTOM:DwarvenAxe"
+      },
+      {
+        "value": "CUSTOM:DwarvenSword"
+      },
+      {
+        "value": "CUSTOM:DwarvenShovel"
+      },
+      {
+        "value": "CUSTOM:DwarvenHoe"
+      },
+      {
+        "value": "CUSTOM:AlfcrystalPickaxe"
+      },
+      {
+        "value": "CUSTOM:AlfcrystalAxe"
+      },
+      {
+        "value": "CUSTOM:AlfcrystalSword"
+      },
+      {
+        "value": "CUSTOM:AlfcrystalShovel"
+      },
+      {
+        "value": "CUSTOM:AlfcrystalHoe"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "tools",
+    "namespace": "forge"
+  }
+}

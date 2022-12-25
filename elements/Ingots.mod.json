@@ -1,0 +1,21 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Midgardian_SteelIngot"
+      },
+      {
+        "value": "CUSTOM:DwarvenMetalIngot"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "ingots",
+    "namespace": "forge"
+  }
+}

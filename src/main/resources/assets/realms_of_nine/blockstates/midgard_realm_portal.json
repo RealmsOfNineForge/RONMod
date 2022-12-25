@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "realms_of_nine:block/midgard_realm_portal_ew"
+    },
+    "axis=x": {
+      "model": "realms_of_nine:block/midgard_realm_portal_ns"
+    }
+  }
+}

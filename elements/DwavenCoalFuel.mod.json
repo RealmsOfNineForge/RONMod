@@ -1,0 +1,15 @@
+{
+  "_fv": 34,
+  "_type": "itemextension",
+  "definition": {
+    "item": {
+      "value": "CUSTOM:DwarvenCoal"
+    },
+    "enableFuel": true,
+    "fuelPower": {
+      "fixedValue": 3500.0
+    },
+    "hasDispenseBehavior": false,
+    "compostLayerChance": 0.0
+  }
+}

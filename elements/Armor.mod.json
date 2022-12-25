@@ -1,0 +1,51 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Midgardian_SteelArmor.helmet"
+      },
+      {
+        "value": "CUSTOM:Midgardian_SteelArmor.body"
+      },
+      {
+        "value": "CUSTOM:Midgardian_SteelArmor.legs"
+      },
+      {
+        "value": "CUSTOM:Midgardian_SteelArmor.boots"
+      },
+      {
+        "value": "CUSTOM:DwarvenArmor.helmet"
+      },
+      {
+        "value": "CUSTOM:DwarvenArmor.body"
+      },
+      {
+        "value": "CUSTOM:DwarvenArmor.legs"
+      },
+      {
+        "value": "CUSTOM:DwarvenArmor.boots"
+      },
+      {
+        "value": "CUSTOM:AlfcrystalArmor.helmet"
+      },
+      {
+        "value": "CUSTOM:AlfcrystalArmor.body"
+      },
+      {
+        "value": "CUSTOM:AlfcrystalArmor.legs"
+      },
+      {
+        "value": "CUSTOM:AlfcrystalArmor.boots"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "armors",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Midgardian_SteelArmor.legs"
+      },
+      {
+        "value": "CUSTOM:DwarvenArmor.legs"
+      },
+      {
+        "value": "CUSTOM:AlfcrystalArmor.legs"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "armors_leggings",
+    "namespace": "forge"
+  }
+}

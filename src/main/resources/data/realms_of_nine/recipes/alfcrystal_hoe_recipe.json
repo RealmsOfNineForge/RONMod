@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "realms_of_nine:alfcrystal"
+    },
+    "1": {
+      "item": "realms_of_nine:alfcrystal"
+    },
+    "3": {
+      "item": "realms_of_nine:yggdrasil_roots_fibers"
+    },
+    "5": {
+      "item": "realms_of_nine:yggdrasil_roots_fibers"
+    }
+  },
+  "result": {
+    "item": "realms_of_nine:alfcrystal_hoe",
+    "count": 1
+  }
+}

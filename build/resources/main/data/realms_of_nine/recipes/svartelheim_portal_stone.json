@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "realms_of_nine:wispy_essence"
+    },
+    {
+      "item": "realms_of_nine:yggdrasil_roots_fibers"
+    },
+    {
+      "item": "realms_of_nine:wispy_essence"
+    },
+    {
+      "item": "realms_of_nine:wispy_essence"
+    },
+    {
+      "item": "realms_of_nine:dwarven_coal"
+    },
+    {
+      "item": "realms_of_nine:wispy_essence"
+    },
+    {
+      "item": "realms_of_nine:yggdrasil_roots_fibers"
+    },
+    {
+      "item": "realms_of_nine:yggdrasil_roots_fibers"
+    },
+    {
+      "item": "realms_of_nine:yggdrasil_roots_fibers"
+    }
+  ],
+  "result": {
+    "item": "realms_of_nine:svartelheim",
+    "count": 1
+  }
+}

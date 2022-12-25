@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:FatedLeather"
+      },
+      {
+        "value": "CUSTOM:FatedLeather"
+      },
+      {
+        "value": "CUSTOM:FatedLeather"
+      },
+      {
+        "value": "CUSTOM:Alfcrystal"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Alfcrystal"
+      },
+      {
+        "value": "CUSTOM:Alfcrystal"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Alfcrystal"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AlfcrystalArmor.legs"
+    },
+    "name": "alfcrystal_armor_leggings_recipe",
+    "namespace": "mod"
+  }
+}

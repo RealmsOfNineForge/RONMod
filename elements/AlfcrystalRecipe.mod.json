@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:WispyEssence"
+      },
+      {
+        "value": "CUSTOM:YggdrasilRoots"
+      },
+      {
+        "value": "CUSTOM:WispyEssence"
+      },
+      {
+        "value": "CUSTOM:ThreadedFates"
+      },
+      {
+        "value": "Items.AMETHYST_SHARD"
+      },
+      {
+        "value": "CUSTOM:ThreadedFates"
+      },
+      {
+        "value": "CUSTOM:WispyEssence"
+      },
+      {
+        "value": "CUSTOM:FruitOfTheWorld"
+      },
+      {
+        "value": "CUSTOM:WispyEssence"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Alfcrystal"
+    },
+    "name": "alfcrystal_recipe",
+    "namespace": "mod"
+  }
+}

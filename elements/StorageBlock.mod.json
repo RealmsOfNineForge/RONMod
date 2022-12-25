@@ -1,0 +1,30 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Midgardian_SteelBlock"
+      },
+      {
+        "value": "CUSTOM:DwarvenCoalBlock"
+      },
+      {
+        "value": "CUSTOM:DwarvenMetalBlock"
+      },
+      {
+        "value": "CUSTOM:AlfcrystalBlock"
+      },
+      {
+        "value": "CUSTOM:VanaCrystalBlock"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "storage_blocks",
+    "namespace": "forge"
+  }
+}

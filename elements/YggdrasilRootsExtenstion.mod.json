@@ -1,0 +1,15 @@
+{
+  "_fv": 34,
+  "_type": "itemextension",
+  "definition": {
+    "item": {
+      "value": "CUSTOM:YggdrasilRoots"
+    },
+    "enableFuel": true,
+    "fuelPower": {
+      "fixedValue": 50.0
+    },
+    "hasDispenseBehavior": false,
+    "compostLayerChance": 0.049999999999999996
+  }
+}

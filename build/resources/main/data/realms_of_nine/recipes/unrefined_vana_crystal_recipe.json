@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "realms_of_nine:alfcrystal"
+    },
+    "2": {
+      "item": "realms_of_nine:wispy_essence"
+    },
+    "3": {
+      "item": "realms_of_nine:alfcrystal"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "item": "realms_of_nine:alfcrystal"
+    },
+    "6": {
+      "item": "realms_of_nine:wispy_essence"
+    },
+    "7": {
+      "item": "realms_of_nine:alfcrystal"
+    }
+  },
+  "result": {
+    "item": "realms_of_nine:unrefined_vana_crystal",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Midgardian_SteelOre"
+      },
+      {
+        "value": "CUSTOM:DeepslateDwarvenCoal"
+      },
+      {
+        "value": "CUSTOM:DeepslateDwarvenMetalOre"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "ore_in_ground/deepslate",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_fv": 34,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:SvartelheimMines"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_LAVA"
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "onPlayerEntersDimension": {
+      "name": "SvartelheimPlayerEntersDimension"
+    },
+    "portalFrame": {
+      "value": "CUSTOM:RootedBricks"
+    },
+    "portalParticles": {
+      "value": "CUSTOM:SvartelheimPortalParticles"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Dwarven Key Stone",
+    "igniterTab": {
+      "value": "CUSTOM:RiseOfTheNineTools"
+    },
+    "texture": "svartelheimportalignighter",
+    "portalTexture": "svartelheim_portal",
+    "enablePortal": true
+  }
+}

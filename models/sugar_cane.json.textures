@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "sugar_cane",
+        "missing": "sugar_cane"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "realms_of_nine:wispy_essence"
+    },
+    "title": {
+      "translate": "advancements.you_monster.title"
+    },
+    "description": {
+      "translate": "advancements.you_monster.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "you_monster": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "realms_of_nine:wispy_essence"
+            ],
+            "count": {
+              "min": 45,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "realms_of_nine:realms_of_nine"
+}

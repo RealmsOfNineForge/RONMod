@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "realms_of_nine:raw_steel_ore"
+  },
+  "result": "realms_of_nine:midgardian_steel_ingot"
+}

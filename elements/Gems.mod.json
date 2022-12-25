@@ -1,0 +1,27 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Alfcrystal"
+      },
+      {
+        "value": "CUSTOM:VanaCrystal"
+      },
+      {
+        "value": "CUSTOM:UnrefinedVanaCrystal"
+      },
+      {
+        "value": "CUSTOM:SuperiorVanaCrystal"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "gems",
+    "namespace": "forge"
+  }
+}
