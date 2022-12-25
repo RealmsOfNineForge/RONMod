@@ -2090,6 +2090,15 @@
       "locked_code": false,
       "registry_name": "new_ash_texture_fence_gate",
       "path": "~/Ash Wood"
+    },
+    {
+      "name": "Chesttags",
+      "type": "tag",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chesttags",
+      "path": "~/Backpacks/Item"
     }
   ],
   "variable_elements": [],
