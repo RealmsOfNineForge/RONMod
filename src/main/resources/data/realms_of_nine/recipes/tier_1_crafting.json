@@ -19,7 +19,7 @@
       "item": "realms_of_nine:fated_leather"
     },
     "4": {
-      "item": "minecraft:chest"
+      "tag": "forge:chest"
     },
     "5": {
       "item": "realms_of_nine:fated_leather"

@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "realms_of_nine:blocks/ash_planks",
+    "top": "realms_of_nine:blocks/ash_planks",
+    "side": "realms_of_nine:blocks/ash_planks"
+  },
+  "render_type": "solid"
+}

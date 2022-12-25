@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "realms_of_nine:block/new_ash_texture_slab"
+    },
+    "type=top": {
+      "model": "realms_of_nine:block/new_ash_texture_slab_top"
+    },
+    "type=double": {
+      "model": "realms_of_nine:block/new_ash_texture_slab_full"
+    }
+  }
+}

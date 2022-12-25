@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "realms_of_nine:blocks/newashtexture_log_top",
+    "up": "realms_of_nine:blocks/newashtexture_log_top",
+    "north": "realms_of_nine:blocks/newashtexture_log_side",
+    "east": "realms_of_nine:blocks/newashtexture_log_side",
+    "south": "realms_of_nine:blocks/newashtexture_log_side",
+    "west": "realms_of_nine:blocks/newashtexture_log_side",
+    "particle": "realms_of_nine:blocks/newashtexture_log_top"
+  },
+  "render_type": "solid"
+}
