@@ -36,6 +36,7 @@ import net.mcreator.realmsofnine.block.DeepslateDwarvenCoalBlock;
 import net.mcreator.realmsofnine.block.AshWoodBlock;
 import net.mcreator.realmsofnine.block.AshStairsBlock;
 import net.mcreator.realmsofnine.block.AshSlabBlock;
+import net.mcreator.realmsofnine.block.AshSaplingBlock;
 import net.mcreator.realmsofnine.block.AshPressurePlateBlock;
 import net.mcreator.realmsofnine.block.AshPlanksBlock;
 import net.mcreator.realmsofnine.block.AshLogBlock;
@@ -76,7 +77,6 @@ public class RealmsOfNineModBlocks {
 	public static final RegistryObject<Block> ASH_WOOD = REGISTRY.register("ash_wood", () -> new AshWoodBlock());
 	public static final RegistryObject<Block> ASH_LOG = REGISTRY.register("ash_log", () -> new AshLogBlock());
 	public static final RegistryObject<Block> ASH_PLANKS = REGISTRY.register("ash_planks", () -> new AshPlanksBlock());
-	public static final RegistryObject<Block> ASH_LEAVES = REGISTRY.register("ash_leaves", () -> new AshLeavesBlock());
 	public static final RegistryObject<Block> ASH_STAIRS = REGISTRY.register("ash_stairs", () -> new AshStairsBlock());
 	public static final RegistryObject<Block> ASH_SLAB = REGISTRY.register("ash_slab", () -> new AshSlabBlock());
 	public static final RegistryObject<Block> ASH_FENCE = REGISTRY.register("ash_fence", () -> new AshFenceBlock());
@@ -93,4 +93,6 @@ public class RealmsOfNineModBlocks {
 	public static final RegistryObject<Block> NEW_ASH_TEXTURE_FENCE = REGISTRY.register("new_ash_texture_fence", () -> new NewAshTextureFenceBlock());
 	public static final RegistryObject<Block> NEW_ASH_TEXTURE_FENCE_GATE = REGISTRY.register("new_ash_texture_fence_gate",
 			() -> new NewAshTextureFenceGateBlock());
+	public static final RegistryObject<Block> ASH_LEAVES = REGISTRY.register("ash_leaves", () -> new AshLeavesBlock());
+	public static final RegistryObject<Block> ASH_SAPLING = REGISTRY.register("ash_sapling", () -> new AshSaplingBlock());
 }

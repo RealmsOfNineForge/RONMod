@@ -2,10 +2,10 @@
   "_fv": 34,
   "_type": "block",
   "definition": {
-    "texture": "ash_planks",
-    "textureTop": "ash_planks",
+    "texture": "new_new_ash_plank",
+    "textureTop": "new_new_ash_plank",
     "textureLeft": "",
-    "textureFront": "ash_planks",
+    "textureFront": "new_new_ash_plank",
     "textureRight": "",
     "textureBack": "",
     "renderType": 10,

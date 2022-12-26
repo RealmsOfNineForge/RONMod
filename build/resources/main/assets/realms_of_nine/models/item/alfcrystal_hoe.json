@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "realms_of_nine:items/alfcrystal_hoe"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "realms_of_nine:blocks/coalore",
-    "particle": "realms_of_nine:blocks/coalore"
-  },
-  "render_type": "solid"
-}

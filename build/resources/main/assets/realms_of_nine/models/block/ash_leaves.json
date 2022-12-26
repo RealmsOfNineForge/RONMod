@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "realms_of_nine:blocks/ash_leaves",
-    "particle": "realms_of_nine:blocks/ash_leaves"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "experience": 1.7,
-  "cookingtime": 400,
-  "ingredient": {
-    "item": "realms_of_nine:unrefined_vana_crystal"
-  },
-  "result": "realms_of_nine:vana_crystal"
-}

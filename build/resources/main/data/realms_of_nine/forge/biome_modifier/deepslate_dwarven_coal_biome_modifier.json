@@ -1,8 +1,0 @@
-{
-  "type": "forge:add_features",
-  "biomes": {
-    "type": "forge:any"
-  },
-  "features": "realms_of_nine:deepslate_dwarven_coal",
-  "step": "underground_ores"
-}

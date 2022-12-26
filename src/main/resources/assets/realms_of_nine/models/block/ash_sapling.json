@@ -1,0 +1,10 @@
+{
+  "parent": "realms_of_nine:custom/ashsapling",
+  "textures": {
+    "all": "realms_of_nine:blocks/ash_sapling",
+    "particle": "realms_of_nine:blocks/ash_sapling",
+    "1": "realms_of_nine:blocks/ash_sapling",
+    "missing": "realms_of_nine:blocks/ash_sapling"
+  },
+  "render_type": "cutout"
+}

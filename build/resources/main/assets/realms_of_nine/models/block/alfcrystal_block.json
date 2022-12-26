@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "realms_of_nine:blocks/alfcrystal_block",
-    "particle": "realms_of_nine:blocks/alfcrystal_block"
-  },
-  "render_type": "solid"
-}

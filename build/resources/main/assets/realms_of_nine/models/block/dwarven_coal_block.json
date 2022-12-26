@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "realms_of_nine:blocks/dwarven_coal_block",
-    "particle": "realms_of_nine:blocks/dwarven_coal_block"
-  },
-  "render_type": "solid"
-}

@@ -1,9 +1,9 @@
 {
   "parent": "block/slab_top",
   "textures": {
-    "bottom": "realms_of_nine:blocks/ash_planks",
-    "top": "realms_of_nine:blocks/ash_planks",
-    "side": "realms_of_nine:blocks/ash_planks"
+    "bottom": "realms_of_nine:blocks/new_new_ash_plank",
+    "top": "realms_of_nine:blocks/new_new_ash_plank",
+    "side": "realms_of_nine:blocks/new_new_ash_plank"
   },
   "render_type": "solid"
 }

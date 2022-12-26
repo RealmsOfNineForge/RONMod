@@ -1,9 +1,0 @@
-{
-  "parent": "block/slab",
-  "textures": {
-    "bottom": "realms_of_nine:blocks/newashtexture_planks",
-    "top": "realms_of_nine:blocks/newashtexture_planks",
-    "side": "realms_of_nine:blocks/newashtexture_planks"
-  },
-  "render_type": "solid"
-}

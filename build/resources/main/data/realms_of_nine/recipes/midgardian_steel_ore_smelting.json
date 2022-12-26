@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "experience": 0.77,
-  "cookingtime": 250,
-  "ingredient": {
-    "item": "realms_of_nine:raw_steel_ore"
-  },
-  "result": "realms_of_nine:midgardian_steel_ingot"
-}

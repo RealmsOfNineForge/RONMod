@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "experience": 0.7,
-  "cookingtime": 200,
-  "ingredient": {
-    "item": "realms_of_nine:dwarven_coal_ore"
-  },
-  "result": "realms_of_nine:dwarven_coal"
-}

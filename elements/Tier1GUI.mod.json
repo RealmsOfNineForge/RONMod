@@ -6,7 +6,7 @@
     "width": 176,
     "height": 166,
     "inventoryOffsetX": 0,
-    "inventoryOffsetY": -10,
+    "inventoryOffsetY": -12,
     "renderBgLayer": true,
     "doesPauseGame": false,
     "components": [
@@ -35,19 +35,6 @@
           "name": "Slot #0",
           "x": 132,
           "y": 53
-        }
-      },
-      {
-        "type": "label",
-        "data": {
-          "text": "Inventory",
-          "color": {
-            "value": -12829636,
-            "falpha": 0.0
-          },
-          "name": "Inventory",
-          "x": 131,
-          "y": 96
         }
       },
       {
@@ -286,6 +273,19 @@
           "name": "Slot #17",
           "x": 276,
           "y": 71
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Inventory",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Inventory",
+          "x": 132,
+          "y": 95
         }
       }
     ],

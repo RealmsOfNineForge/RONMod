@@ -113,9 +113,9 @@ public class Tier1GUIMenu extends AbstractContainerMenu implements Supplier<Map<
 		}));
 		for (int si = 0; si < 3; ++si)
 			for (int sj = 0; sj < 9; ++sj)
-				this.addSlot(new Slot(inv, sj + (si + 1) * 9, 0 + 8 + sj * 18, -10 + 84 + si * 18));
+				this.addSlot(new Slot(inv, sj + (si + 1) * 9, 0 + 8 + sj * 18, -12 + 84 + si * 18));
 		for (int si = 0; si < 9; ++si)
-			this.addSlot(new Slot(inv, si, 0 + 8 + si * 18, -10 + 142));
+			this.addSlot(new Slot(inv, si, 0 + 8 + si * 18, -12 + 142));
 	}
 
 	@Override

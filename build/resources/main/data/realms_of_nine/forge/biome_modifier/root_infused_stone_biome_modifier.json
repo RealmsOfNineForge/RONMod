@@ -1,8 +1,0 @@
-{
-  "type": "forge:add_features",
-  "biomes": {
-    "type": "forge:any"
-  },
-  "features": "realms_of_nine:root_infused_stone",
-  "step": "underground_ores"
-}

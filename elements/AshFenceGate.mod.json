@@ -2,7 +2,7 @@
   "_fv": 34,
   "_type": "block",
   "definition": {
-    "texture": "ash_planks",
+    "texture": "new_new_ash_plank",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -41,7 +41,7 @@
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "REDSTONE"
+      "value": "CUSTOM:RiseOFTheNine"
     },
     "destroyTool": "Not specified",
     "customDrop": {

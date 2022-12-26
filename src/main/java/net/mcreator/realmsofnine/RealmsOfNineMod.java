@@ -36,6 +36,7 @@ import net.mcreator.realmsofnine.init.RealmsOfNineModItems;
 import net.mcreator.realmsofnine.init.RealmsOfNineModFeatures;
 import net.mcreator.realmsofnine.init.RealmsOfNineModEntities;
 import net.mcreator.realmsofnine.init.RealmsOfNineModBlocks;
+import net.mcreator.realmsofnine.init.RealmsOfNineModBlockEntities;
 import net.mcreator.realmsofnine.init.RealmsOfNineModBiomes;
 
 import java.util.function.Supplier;
@@ -58,7 +59,7 @@ public class RealmsOfNineMod {
 		RealmsOfNineModBlocks.REGISTRY.register(bus);
 		RealmsOfNineModItems.REGISTRY.register(bus);
 		RealmsOfNineModEntities.REGISTRY.register(bus);
-
+		RealmsOfNineModBlockEntities.REGISTRY.register(bus);
 		RealmsOfNineModFeatures.REGISTRY.register(bus);
 
 		RealmsOfNineModParticleTypes.REGISTRY.register(bus);

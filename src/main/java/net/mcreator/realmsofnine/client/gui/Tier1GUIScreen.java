@@ -69,7 +69,7 @@ public class Tier1GUIScreen extends AbstractContainerScreen<Tier1GUIMenu> {
 	@Override
 	protected void renderLabels(PoseStack poseStack, int mouseX, int mouseY) {
 		this.font.draw(poseStack, "Midgardian Satchel", 4, 4, -12829636);
-		this.font.draw(poseStack, "Inventory", 5, 59, -12829636);
+		this.font.draw(poseStack, "Inventory", 6, 58, -12829636);
 	}
 
 	@Override
