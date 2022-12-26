@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "realms_of_nine:hawthorn_leaves",
     "realms_of_nine:ash_leaves"
   ]
 }

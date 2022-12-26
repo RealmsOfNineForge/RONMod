@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "realms_of_nine:shards_of_blade_ore"
+  },
+  "result": "realms_of_nine:shards_of_surturs_blade"
+}

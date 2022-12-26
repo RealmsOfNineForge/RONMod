@@ -64,7 +64,11 @@ public class RealmsOfNineModBiomes {
 				// Inject biomes to biome source
 				if (chunkGenerator.getBiomeSource() instanceof MultiNoiseBiomeSource noiseSource) {
 					List<Pair<Climate.ParameterPoint, Holder<Biome>>> parameters = new ArrayList<>(noiseSource.parameters.values());
-					parameters.add(new Pair<>(SvartelheimMinesBiome.PARAMETER_POINT,
+					parameters.add(new Pair<>(MidgardBiomeBiome.PARAMETER_POINT,
+							biomeRegistry.getOrCreateHolderOrThrow(ResourceKey.create(Registry.BIOME_REGISTRY, MIDGARD.getId()))));
+					parameters.add(new Pair<>(AlfhiemBiome.PARAMETER_POINT,
+							biomeRegistry.getOrCreateHolderOrThrow(ResourceKey.create(Registry.BIOME_REGISTRY, ALFHIEM.getId()))));
+					parameters.add(new Pair<>(SvartelheimMinesBiome.PARAMETER_POINT_UNDERGROUND,
 							biomeRegistry.getOrCreateHolderOrThrow(ResourceKey.create(Registry.BIOME_REGISTRY, SVARTELHEIM_MINES.getId()))));
 
 					chunkGenerator.biomeSource = new MultiNoiseBiomeSource(new Climate.ParameterList<>(parameters), noiseSource.preset);
@@ -78,8 +82,12 @@ public class RealmsOfNineModBiomes {
 					SurfaceRules.RuleSource currentRuleSource = noiseGeneratorSettings.surfaceRule();
 					if (currentRuleSource instanceof SurfaceRules.SequenceRuleSource sequenceRuleSource) {
 						List<SurfaceRules.RuleSource> surfaceRules = new ArrayList<>(sequenceRuleSource.sequence());
-						surfaceRules.add(1, preliminarySurfaceRule(ResourceKey.create(Registry.BIOME_REGISTRY, SVARTELHEIM_MINES.getId()),
+						surfaceRules.add(1, anySurfaceRule(ResourceKey.create(Registry.BIOME_REGISTRY, SVARTELHEIM_MINES.getId()),
 								Blocks.MOSS_BLOCK.defaultBlockState(), Blocks.DIRT.defaultBlockState(), Blocks.GRAVEL.defaultBlockState()));
+						surfaceRules.add(1, preliminarySurfaceRule(ResourceKey.create(Registry.BIOME_REGISTRY, MIDGARD.getId()),
+								Blocks.GRASS_BLOCK.defaultBlockState(), Blocks.DIRT.defaultBlockState(), Blocks.SAND.defaultBlockState()));
+						surfaceRules.add(1, preliminarySurfaceRule(ResourceKey.create(Registry.BIOME_REGISTRY, ALFHIEM.getId()),
+								Blocks.GRASS_BLOCK.defaultBlockState(), Blocks.DIRT.defaultBlockState(), Blocks.SAND.defaultBlockState()));
 						NoiseGeneratorSettings moddedNoiseGeneratorSettings = new NoiseGeneratorSettings(noiseGeneratorSettings.noiseSettings(),
 								noiseGeneratorSettings.defaultBlock(), noiseGeneratorSettings.defaultFluid(), noiseGeneratorSettings.noiseRouter(),
 								SurfaceRules.sequence(surfaceRules.toArray(SurfaceRules.RuleSource[]::new)), noiseGeneratorSettings.spawnTarget(),
@@ -106,5 +114,15 @@ public class RealmsOfNineModBiomes {
 																SurfaceRules.state(groundBlock)), SurfaceRules.state(underwaterBlock))),
 												SurfaceRules.ifTrue(SurfaceRules.stoneDepthCheck(0, true, 0, CaveSurface.FLOOR),
 														SurfaceRules.state(undergroundBlock)))));
+	}
+
+	private static SurfaceRules.RuleSource anySurfaceRule(ResourceKey<Biome> biomeKey, BlockState groundBlock, BlockState undergroundBlock,
+			BlockState underwaterBlock) {
+		return SurfaceRules.ifTrue(SurfaceRules.isBiome(biomeKey),
+				SurfaceRules.sequence(
+						SurfaceRules.ifTrue(SurfaceRules.stoneDepthCheck(0, false, 0, CaveSurface.FLOOR),
+								SurfaceRules.sequence(SurfaceRules.ifTrue(SurfaceRules.waterBlockCheck(-1, 0), SurfaceRules.state(groundBlock)),
+										SurfaceRules.state(underwaterBlock))),
+						SurfaceRules.ifTrue(SurfaceRules.stoneDepthCheck(0, true, 0, CaveSurface.FLOOR), SurfaceRules.state(undergroundBlock))));
 	}
 }

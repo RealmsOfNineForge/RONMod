@@ -1,0 +1,21 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:HawthornWood"
+      },
+      {
+        "value": "CUSTOM:HawthornLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "hawthorn_log",
+    "namespace": "forge"
+  }
+}

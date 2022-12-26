@@ -10,6 +10,12 @@
       },
       {
         "value": "CUSTOM:AshLog"
+      },
+      {
+        "value": "CUSTOM:HawthornWood"
+      },
+      {
+        "value": "CUSTOM:HawthornLog"
       }
     ],
     "functions": [],

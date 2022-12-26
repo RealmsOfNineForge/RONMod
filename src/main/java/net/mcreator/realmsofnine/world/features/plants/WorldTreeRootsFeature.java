@@ -49,7 +49,7 @@ public class WorldTreeRootsFeature extends RandomPatchFeature {
 	}
 
 	private final Set<ResourceKey<Level>> generate_dimensions = Set.of(Level.OVERWORLD,
-			ResourceKey.create(Registry.DIMENSION_REGISTRY, new ResourceLocation("realms_of_nine:midgard_realm")));
+			ResourceKey.create(Registry.DIMENSION_REGISTRY, new ResourceLocation("realms_of_nine:deleted_mod_element")));
 
 	public WorldTreeRootsFeature() {
 		super(RandomPatchConfiguration.CODEC);

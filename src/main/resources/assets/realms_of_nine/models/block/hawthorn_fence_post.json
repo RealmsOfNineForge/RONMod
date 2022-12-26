@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "realms_of_nine:blocks/hawthornplanks",
+    "particle": "realms_of_nine:blocks/hawthornplanks"
+  },
+  "render_type": "solid"
+}

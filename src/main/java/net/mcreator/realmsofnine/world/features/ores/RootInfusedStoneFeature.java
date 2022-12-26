@@ -53,7 +53,7 @@ public class RootInfusedStoneFeature extends OreFeature {
 	}
 
 	private final Set<ResourceKey<Level>> generate_dimensions = Set.of(Level.OVERWORLD,
-			ResourceKey.create(Registry.DIMENSION_REGISTRY, new ResourceLocation("realms_of_nine:midgard_realm")));
+			ResourceKey.create(Registry.DIMENSION_REGISTRY, new ResourceLocation("realms_of_nine:deleted_mod_element")));
 
 	public RootInfusedStoneFeature() {
 		super(OreConfiguration.CODEC);

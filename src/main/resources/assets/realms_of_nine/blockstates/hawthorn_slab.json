@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "realms_of_nine:block/hawthorn_slab"
+    },
+    "type=top": {
+      "model": "realms_of_nine:block/hawthorn_slab_top"
+    },
+    "type=double": {
+      "model": "realms_of_nine:block/hawthorn_slab_full"
+    }
+  }
+}

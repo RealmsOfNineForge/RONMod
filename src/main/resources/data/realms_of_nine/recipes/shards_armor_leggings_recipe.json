@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "realms_of_nine:shards_of_surturs_blade"
+    },
+    "1": {
+      "item": "realms_of_nine:shards_of_surturs_blade"
+    },
+    "2": {
+      "item": "realms_of_nine:shards_of_surturs_blade"
+    },
+    "3": {
+      "item": "realms_of_nine:shards_of_surturs_blade"
+    },
+    "5": {
+      "item": "realms_of_nine:shards_of_surturs_blade"
+    },
+    "6": {
+      "item": "realms_of_nine:shards_of_surturs_blade"
+    },
+    "8": {
+      "item": "realms_of_nine:shards_of_surturs_blade"
+    }
+  },
+  "result": {
+    "item": "realms_of_nine:shards_armor_leggings",
+    "count": 1
+  }
+}

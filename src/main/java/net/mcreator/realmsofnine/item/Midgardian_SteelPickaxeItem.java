@@ -14,7 +14,7 @@ public class Midgardian_SteelPickaxeItem extends PickaxeItem {
 	public Midgardian_SteelPickaxeItem() {
 		super(new Tier() {
 			public int getUses() {
-				return 456;
+				return 2501;
 			}
 
 			public float getSpeed() {
@@ -30,7 +30,7 @@ public class Midgardian_SteelPickaxeItem extends PickaxeItem {
 			}
 
 			public int getEnchantmentValue() {
-				return 17;
+				return 16;
 			}
 
 			public Ingredient getRepairIngredient() {

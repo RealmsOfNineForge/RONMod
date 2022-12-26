@@ -2,6 +2,8 @@
   "replace": false,
   "values": [
     "realms_of_nine:ash_log",
-    "realms_of_nine:ash_wood"
+    "realms_of_nine:hawthorn_log",
+    "realms_of_nine:ash_wood",
+    "realms_of_nine:hawthorn_wood"
   ]
 }

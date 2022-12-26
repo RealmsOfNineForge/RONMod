@@ -15,22 +15,18 @@ import net.minecraft.world.level.biome.Climate;
 import net.minecraft.world.level.biome.BiomeSpecialEffects;
 import net.minecraft.world.level.biome.BiomeGenerationSettings;
 import net.minecraft.world.level.biome.Biome;
-import net.minecraft.world.entity.MobCategory;
 import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.data.worldgen.placement.PlacementUtils;
 import net.minecraft.data.worldgen.features.VegetationFeatures;
 import net.minecraft.data.worldgen.features.FeatureUtils;
 import net.minecraft.data.worldgen.BiomeDefaultFeatures;
 
-import net.mcreator.realmsofnine.init.RealmsOfNineModEntities;
-
 import java.util.List;
 
 public class SvartelheimMinesBiome {
-	public static final Climate.ParameterPoint PARAMETER_POINT = new Climate.ParameterPoint(Climate.Parameter.span(-0.166666666667f, 0.166666666667f),
-			Climate.Parameter.span(-0.166666666667f, 0.166666666667f), Climate.Parameter.span(0.343333333333f, 0.676666666667f),
-			Climate.Parameter.span(0.633333333333f, 0.966666666667f), Climate.Parameter.point(0),
-			Climate.Parameter.span(-0.073083240118f, 0.260250093216f), 0);
+	public static final Climate.ParameterPoint PARAMETER_POINT_UNDERGROUND = new Climate.ParameterPoint(Climate.Parameter.span(-1, 1),
+			Climate.Parameter.span(-1, 1), Climate.Parameter.span(-0.5f, 1.5f), Climate.Parameter.span(-0.2f, 1.8f),
+			Climate.Parameter.span(0.2f, 0.9f), Climate.Parameter.span(-0.906416573451f, 1.093583426549f), 0);
 
 	public static Biome createBiome() {
 		BiomeSpecialEffects effects = new BiomeSpecialEffects.Builder().fogColor(-14339021).waterColor(-14932186).waterFogColor(-16118258)
@@ -52,8 +48,6 @@ public class SvartelheimMinesBiome {
 		BiomeDefaultFeatures.addExtraEmeralds(biomeGenerationSettings);
 		BiomeDefaultFeatures.addFossilDecoration(biomeGenerationSettings);
 		MobSpawnSettings.Builder mobSpawnInfo = new MobSpawnSettings.Builder();
-		mobSpawnInfo.addSpawn(MobCategory.MONSTER, new MobSpawnSettings.SpawnerData(RealmsOfNineModEntities.MIDGARDIAN.get(), 20, 4, 4));
-		mobSpawnInfo.addSpawn(MobCategory.MONSTER, new MobSpawnSettings.SpawnerData(RealmsOfNineModEntities.WISP.get(), 20, 4, 4));
 		return new Biome.BiomeBuilder().precipitation(Biome.Precipitation.RAIN).temperature(0.5f).downfall(0.5f).specialEffects(effects)
 				.mobSpawnSettings(mobSpawnInfo.build()).generationSettings(biomeGenerationSettings.build()).build();
 	}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "realms_of_nine:hawthorn_planks"
+    }
+  ],
+  "result": {
+    "item": "realms_of_nine:hawthorn_button",
+    "count": 1
+  }
+}

@@ -2,7 +2,7 @@
   "_fv": 34,
   "_type": "biome",
   "definition": {
-    "name": "Svartelheim Mines",
+    "name": "Nidavellir Mines ",
     "groundBlock": {
       "value": "Blocks.MOSS_BLOCK"
     },
@@ -44,11 +44,11 @@
     "particlesProbability": 0.5,
     "rainingPossibility": 0.5,
     "temperature": 0.5,
-    "baseHeight": 0.1,
+    "baseHeight": 0.0,
     "heightVariation": 0.2,
-    "spawnBiome": true,
+    "spawnBiome": false,
     "spawnBiomeNether": false,
-    "spawnInCaves": false,
+    "spawnInCaves": true,
     "biomeWeight": 10,
     "grassPerChunk": 0,
     "seagrassPerChunk": 0,
@@ -77,7 +77,7 @@
     },
     "spawnStronghold": true,
     "spawnMineshaft": true,
-    "spawnMineshaftMesa": false,
+    "spawnMineshaftMesa": true,
     "spawnPillagerOutpost": false,
     "villageType": "none",
     "spawnWoodlandMansion": false,
@@ -103,25 +103,6 @@
       "Ores",
       "AmethystGeodes"
     ],
-    "spawnEntries": [
-      {
-        "entity": {
-          "value": "CUSTOM:Midgardian"
-        },
-        "minGroup": 4,
-        "maxGroup": 4,
-        "weight": 20,
-        "spawnType": "monster"
-      },
-      {
-        "entity": {
-          "value": "CUSTOM:Wisp"
-        },
-        "minGroup": 4,
-        "maxGroup": 4,
-        "weight": 20,
-        "spawnType": "monster"
-      }
-    ]
+    "spawnEntries": []
   }
 }

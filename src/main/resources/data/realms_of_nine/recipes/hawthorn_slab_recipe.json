@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "realms_of_nine:hawthorn_planks"
+    },
+    "1": {
+      "item": "realms_of_nine:hawthorn_planks"
+    },
+    "2": {
+      "item": "realms_of_nine:hawthorn_planks"
+    }
+  },
+  "result": {
+    "item": "realms_of_nine:hawthorn_slab",
+    "count": 6
+  }
+}

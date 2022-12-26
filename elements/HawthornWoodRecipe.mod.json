@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HawthornLog"
+      },
+      {
+        "value": "CUSTOM:HawthornLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HawthornLog"
+      },
+      {
+        "value": "CUSTOM:HawthornLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HawthornWood"
+    },
+    "name": "hawthorn_wood_recipe",
+    "namespace": "mod"
+  }
+}

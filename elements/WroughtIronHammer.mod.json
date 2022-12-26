@@ -1,0 +1,34 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "midgardianhammer",
+    "customModelName": "Normal",
+    "name": "Wrought Iron Hammer",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:RiseOfTheNineTools"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 5,
+    "efficiency": 10.0,
+    "attackSpeed": 1.0,
+    "enchantability": 16,
+    "damageVsEntity": 4.0,
+    "usageCount": 2501,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Midgardian_SteelIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "WroughtIronHammerBlockDestroyedWithTool"
+    }
+  }
+}

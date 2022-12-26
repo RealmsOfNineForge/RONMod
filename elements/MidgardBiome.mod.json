@@ -2,7 +2,7 @@
   "_fv": 34,
   "_type": "biome",
   "definition": {
-    "name": "Midgard",
+    "name": "Alpine Fjords",
     "groundBlock": {
       "value": "Blocks.GRASS"
     },
@@ -34,28 +34,28 @@
     "temperature": 0.1,
     "baseHeight": 0.1,
     "heightVariation": 2.0,
-    "spawnBiome": false,
+    "spawnBiome": true,
     "spawnBiomeNether": false,
     "spawnInCaves": false,
     "biomeWeight": 10,
     "grassPerChunk": 4,
     "seagrassPerChunk": 0,
-    "flowersPerChunk": 4,
-    "mushroomsPerChunk": 8,
+    "flowersPerChunk": 3,
+    "mushroomsPerChunk": 5,
     "bigMushroomsChunk": 1,
     "sandPatchesPerChunk": 0,
-    "gravelPatchesPerChunk": 4,
+    "gravelPatchesPerChunk": 2,
     "reedsPerChunk": 0,
     "cactiPerChunk": 0,
     "treesPerChunk": 7,
-    "vanillaTreeType": "Mega spruce trees",
-    "treeType": 0,
+    "vanillaTreeType": "Birch trees",
+    "treeType": 1,
     "minHeight": 7,
     "treeStem": {
-      "value": ""
+      "value": "CUSTOM:AshLog"
     },
     "treeBranch": {
-      "value": ""
+      "value": "CUSTOM:AshLeaves"
     },
     "treeVines": {
       "value": ""
@@ -90,7 +90,9 @@
       "MonsterRooms",
       "TaigaGrassAndMushrooms",
       "TaigaLargeFerns",
-      "TaigaRocks"
+      "TaigaRocks",
+      "Icebergs",
+      "FrozenTopLayer"
     ],
     "spawnEntries": [
       {
@@ -118,7 +120,7 @@
         "minGroup": 1,
         "maxGroup": 4,
         "weight": 5,
-        "spawnType": "ambient"
+        "spawnType": "creature"
       },
       {
         "entity": {
@@ -127,7 +129,7 @@
         "minGroup": 1,
         "maxGroup": 4,
         "weight": 5,
-        "spawnType": "ambient"
+        "spawnType": "creature"
       },
       {
         "entity": {
@@ -136,7 +138,7 @@
         "minGroup": 1,
         "maxGroup": 4,
         "weight": 5,
-        "spawnType": "waterAmbient"
+        "spawnType": "waterCreature"
       },
       {
         "entity": {
@@ -145,7 +147,7 @@
         "minGroup": 1,
         "maxGroup": 4,
         "weight": 5,
-        "spawnType": "ambient"
+        "spawnType": "creature"
       },
       {
         "entity": {
@@ -154,7 +156,7 @@
         "minGroup": 1,
         "maxGroup": 4,
         "weight": 5,
-        "spawnType": "ambient"
+        "spawnType": "creature"
       },
       {
         "entity": {
@@ -163,7 +165,7 @@
         "minGroup": 1,
         "maxGroup": 4,
         "weight": 5,
-        "spawnType": "ambient"
+        "spawnType": "creature"
       },
       {
         "entity": {
@@ -172,7 +174,7 @@
         "minGroup": 1,
         "maxGroup": 4,
         "weight": 5,
-        "spawnType": "ambient"
+        "spawnType": "creature"
       },
       {
         "entity": {
@@ -181,7 +183,7 @@
         "minGroup": 1,
         "maxGroup": 4,
         "weight": 5,
-        "spawnType": "ambient"
+        "spawnType": "creature"
       },
       {
         "entity": {
@@ -190,7 +192,7 @@
         "minGroup": 1,
         "maxGroup": 4,
         "weight": 5,
-        "spawnType": "ambient"
+        "spawnType": "creature"
       },
       {
         "entity": {
@@ -199,7 +201,7 @@
         "minGroup": 1,
         "maxGroup": 4,
         "weight": 5,
-        "spawnType": "waterCreature"
+        "spawnType": "creature"
       },
       {
         "entity": {
@@ -208,7 +210,7 @@
         "minGroup": 1,
         "maxGroup": 4,
         "weight": 5,
-        "spawnType": "waterAmbient"
+        "spawnType": "waterCreature"
       },
       {
         "entity": {

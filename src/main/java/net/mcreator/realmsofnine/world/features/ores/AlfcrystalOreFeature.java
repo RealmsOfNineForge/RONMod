@@ -45,7 +45,7 @@ public class AlfcrystalOreFeature extends OreFeature {
 	}
 
 	private final Set<ResourceKey<Level>> generate_dimensions = Set
-			.of(ResourceKey.create(Registry.DIMENSION_REGISTRY, new ResourceLocation("realms_of_nine:alfheim")));
+			.of(ResourceKey.create(Registry.DIMENSION_REGISTRY, new ResourceLocation("realms_of_nine:deleted_mod_element")));
 
 	public AlfcrystalOreFeature() {
 		super(OreConfiguration.CODEC);

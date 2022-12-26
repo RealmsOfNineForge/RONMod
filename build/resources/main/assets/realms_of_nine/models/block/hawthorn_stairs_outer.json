@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "realms_of_nine:blocks/hawthornplanks",
+    "top": "realms_of_nine:blocks/hawthornplanks",
+    "side": "realms_of_nine:blocks/hawthornplanks"
+  },
+  "render_type": "solid"
+}

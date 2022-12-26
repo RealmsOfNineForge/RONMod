@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "realms_of_nine:shards_of_surturs_blade"
+    },
+    "1": {
+      "item": "realms_of_nine:shards_of_surturs_blade"
+    },
+    "2": {
+      "item": "realms_of_nine:shards_of_surturs_blade"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "realms_of_nine:shards_pickaxe",
+    "count": 1
+  }
+}

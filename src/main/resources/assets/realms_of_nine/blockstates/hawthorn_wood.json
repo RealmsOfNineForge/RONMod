@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "realms_of_nine:block/hawthorn_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "realms_of_nine:block/hawthorn_wood"
+    },
+    "axis=z": {
+      "model": "realms_of_nine:block/hawthorn_wood",
+      "x": 90
+    }
+  }
+}

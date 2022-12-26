@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:hawthorn_log"
+    }
+  ],
+  "result": {
+    "item": "realms_of_nine:hawthorn_planks",
+    "count": 4
+  }
+}

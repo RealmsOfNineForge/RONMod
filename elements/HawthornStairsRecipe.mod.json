@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HawthornPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HawthornPlanks"
+      },
+      {
+        "value": "CUSTOM:HawthornPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HawthornPlanks"
+      },
+      {
+        "value": "CUSTOM:HawthornPlanks"
+      },
+      {
+        "value": "CUSTOM:HawthornPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HawthornStairs"
+    },
+    "name": "hawthorn_stairs_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_fence_gate",
+  "textures": {
+    "texture": "realms_of_nine:blocks/hawthornplanks"
+  },
+  "render_type": "solid"
+}

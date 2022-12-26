@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "realms_of_nine:blocks/surturshardore",
+    "up": "realms_of_nine:blocks/surturshardore",
+    "north": "realms_of_nine:blocks/surturshardore",
+    "east": "realms_of_nine:blocks/surturshardore",
+    "south": "realms_of_nine:blocks/surturshardore",
+    "west": "realms_of_nine:blocks/surturshardore",
+    "particle": "realms_of_nine:blocks/surturshardore"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "realms_of_nine:shards_of_surturs_blade"
+    },
+    "1": {
+      "item": "realms_of_nine:shards_of_surturs_blade"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "realms_of_nine:shards_hoe",
+    "count": 1
+  }
+}

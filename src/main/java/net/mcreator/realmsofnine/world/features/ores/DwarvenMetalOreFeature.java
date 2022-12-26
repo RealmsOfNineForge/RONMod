@@ -45,8 +45,8 @@ public class DwarvenMetalOreFeature extends OreFeature {
 	}
 
 	private final Set<ResourceKey<Level>> generate_dimensions = Set.of(
-			ResourceKey.create(Registry.DIMENSION_REGISTRY, new ResourceLocation("realms_of_nine:midgard_realm")),
-			ResourceKey.create(Registry.DIMENSION_REGISTRY, new ResourceLocation("realms_of_nine:svartelheim")));
+			ResourceKey.create(Registry.DIMENSION_REGISTRY, new ResourceLocation("realms_of_nine:deleted_mod_element")),
+			ResourceKey.create(Registry.DIMENSION_REGISTRY, new ResourceLocation("realms_of_nine:deleted_mod_element")));
 
 	public DwarvenMetalOreFeature() {
 		super(OreConfiguration.CODEC);
