@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "realms_of_nine:alfhiem",
+  "spawners": {
+    "type": "realms_of_nine:light_elf",
+    "weight": 14,
+    "minCount": 1,
+    "maxCount": 4
+  }
+}

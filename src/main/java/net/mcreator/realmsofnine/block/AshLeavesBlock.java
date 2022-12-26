@@ -18,5 +18,4 @@ public class AshLeavesBlock extends LeavesBlock {
 	public int getLightBlock(BlockState state, BlockGetter worldIn, BlockPos pos) {
 		return 3;
 	}
-	
 }

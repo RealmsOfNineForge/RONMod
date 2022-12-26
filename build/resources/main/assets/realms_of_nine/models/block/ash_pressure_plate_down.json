@@ -1,0 +1,7 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "texture": "realms_of_nine:blocks/new_new_ash_plank"
+  },
+  "render_type": "solid"
+}

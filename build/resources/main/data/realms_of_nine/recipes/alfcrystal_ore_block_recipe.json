@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "realms_of_nine:alfcrystal"
+    },
+    "1": {
+      "item": "realms_of_nine:alfcrystal"
+    },
+    "2": {
+      "item": "realms_of_nine:alfcrystal"
+    },
+    "3": {
+      "item": "realms_of_nine:alfcrystal"
+    },
+    "4": {
+      "item": "realms_of_nine:alfcrystal"
+    },
+    "5": {
+      "item": "realms_of_nine:alfcrystal"
+    },
+    "6": {
+      "item": "realms_of_nine:alfcrystal"
+    },
+    "7": {
+      "item": "realms_of_nine:alfcrystal"
+    },
+    "8": {
+      "item": "realms_of_nine:alfcrystal"
+    }
+  },
+  "result": {
+    "item": "realms_of_nine:alfcrystal_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "realms_of_nine:ash_planks"
+    },
+    "3": {
+      "item": "realms_of_nine:ash_planks"
+    },
+    "4": {
+      "item": "realms_of_nine:ash_planks"
+    },
+    "6": {
+      "item": "realms_of_nine:ash_planks"
+    },
+    "7": {
+      "item": "realms_of_nine:ash_planks"
+    },
+    "8": {
+      "item": "realms_of_nine:ash_planks"
+    }
+  },
+  "result": {
+    "item": "realms_of_nine:ash_stairs",
+    "count": 4
+  }
+}

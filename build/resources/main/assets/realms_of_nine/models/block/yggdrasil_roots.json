@@ -1,0 +1,10 @@
+{
+  "parent": "realms_of_nine:custom/sugar_cane",
+  "textures": {
+    "all": "realms_of_nine:blocks/sugar_cane",
+    "particle": "realms_of_nine:blocks/sugar_cane",
+    "1": "realms_of_nine:blocks/sugar_cane",
+    "missing": "realms_of_nine:blocks/sugar_cane"
+  },
+  "render_type": "cutout"
+}

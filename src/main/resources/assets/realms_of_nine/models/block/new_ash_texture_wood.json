@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "realms_of_nine:blocks/newashtexture_log_side",
-    "particle": "realms_of_nine:blocks/newashtexture_log_side"
-  },
-  "render_type": "solid"
-}

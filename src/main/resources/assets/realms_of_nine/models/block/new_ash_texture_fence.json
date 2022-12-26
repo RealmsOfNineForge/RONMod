@@ -1,8 +1,0 @@
-{
-  "parent": "block/fence_side",
-  "textures": {
-    "texture": "realms_of_nine:blocks/newashtexture_planks",
-    "particle": "realms_of_nine:blocks/newashtexture_planks"
-  },
-  "render_type": "solid"
-}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "realms_of_nine:blocks/new_new_ash_log_top",
+    "up": "realms_of_nine:blocks/new_new_ash_log_top",
+    "north": "realms_of_nine:blocks/new_new_ash_log_bark",
+    "east": "realms_of_nine:blocks/new_new_ash_log_bark",
+    "south": "realms_of_nine:blocks/new_new_ash_log_bark",
+    "west": "realms_of_nine:blocks/new_new_ash_log_bark",
+    "particle": "realms_of_nine:blocks/new_new_ash_log_top"
+  },
+  "render_type": "solid"
+}

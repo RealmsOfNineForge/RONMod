@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "realms_of_nine:blocks/new_new_ash_plank",
+    "particle": "realms_of_nine:blocks/new_new_ash_plank"
+  },
+  "render_type": "solid"
+}

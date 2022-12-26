@@ -67,9 +67,4 @@ public class AshLogBlock extends Block {
 			return dropsOriginal;
 		return Collections.singletonList(new ItemStack(this, 1));
 	}
-	@Override public boolean canSustainLeaves(IBlockState state, IBlockAccess world, BlockPos pos){
-
-return true;
-
-}
 }

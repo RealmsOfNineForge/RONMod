@@ -17,13 +17,6 @@ import net.mcreator.realmsofnine.block.SuperiorVanaCrystalBlockBlock;
 import net.mcreator.realmsofnine.block.SteelOreBlock;
 import net.mcreator.realmsofnine.block.RootedBricksBlock;
 import net.mcreator.realmsofnine.block.RootInfusedStoneBlock;
-import net.mcreator.realmsofnine.block.NewAshTextureWoodBlock;
-import net.mcreator.realmsofnine.block.NewAshTextureStairsBlock;
-import net.mcreator.realmsofnine.block.NewAshTextureSlabBlock;
-import net.mcreator.realmsofnine.block.NewAshTexturePlanksBlock;
-import net.mcreator.realmsofnine.block.NewAshTextureLogBlock;
-import net.mcreator.realmsofnine.block.NewAshTextureFenceGateBlock;
-import net.mcreator.realmsofnine.block.NewAshTextureFenceBlock;
 import net.mcreator.realmsofnine.block.Midgardian_SteelOreBlock;
 import net.mcreator.realmsofnine.block.Midgardian_SteelBlockBlock;
 import net.mcreator.realmsofnine.block.MidgardPortalBlock;
@@ -83,16 +76,6 @@ public class RealmsOfNineModBlocks {
 	public static final RegistryObject<Block> ASH_FENCE_GATE = REGISTRY.register("ash_fence_gate", () -> new AshFenceGateBlock());
 	public static final RegistryObject<Block> ASH_PRESSURE_PLATE = REGISTRY.register("ash_pressure_plate", () -> new AshPressurePlateBlock());
 	public static final RegistryObject<Block> ASH_BUTTON = REGISTRY.register("ash_button", () -> new AshButtonBlock());
-	public static final RegistryObject<Block> NEW_ASH_TEXTURE_WOOD = REGISTRY.register("new_ash_texture_wood", () -> new NewAshTextureWoodBlock());
-	public static final RegistryObject<Block> NEW_ASH_TEXTURE_LOG = REGISTRY.register("new_ash_texture_log", () -> new NewAshTextureLogBlock());
-	public static final RegistryObject<Block> NEW_ASH_TEXTURE_PLANKS = REGISTRY.register("new_ash_texture_planks",
-			() -> new NewAshTexturePlanksBlock());
-	public static final RegistryObject<Block> NEW_ASH_TEXTURE_STAIRS = REGISTRY.register("new_ash_texture_stairs",
-			() -> new NewAshTextureStairsBlock());
-	public static final RegistryObject<Block> NEW_ASH_TEXTURE_SLAB = REGISTRY.register("new_ash_texture_slab", () -> new NewAshTextureSlabBlock());
-	public static final RegistryObject<Block> NEW_ASH_TEXTURE_FENCE = REGISTRY.register("new_ash_texture_fence", () -> new NewAshTextureFenceBlock());
-	public static final RegistryObject<Block> NEW_ASH_TEXTURE_FENCE_GATE = REGISTRY.register("new_ash_texture_fence_gate",
-			() -> new NewAshTextureFenceGateBlock());
 	public static final RegistryObject<Block> ASH_LEAVES = REGISTRY.register("ash_leaves", () -> new AshLeavesBlock());
 	public static final RegistryObject<Block> ASH_SAPLING = REGISTRY.register("ash_sapling", () -> new AshSaplingBlock());
 }

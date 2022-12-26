@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "realms_of_nine:dwarven_coal"
+    },
+    "1": {
+      "item": "realms_of_nine:dwarven_coal"
+    },
+    "2": {
+      "item": "realms_of_nine:dwarven_coal"
+    },
+    "3": {
+      "item": "realms_of_nine:dwarven_coal"
+    },
+    "4": {
+      "item": "realms_of_nine:dwarven_coal"
+    },
+    "5": {
+      "item": "realms_of_nine:dwarven_coal"
+    },
+    "6": {
+      "item": "realms_of_nine:dwarven_coal"
+    },
+    "7": {
+      "item": "realms_of_nine:dwarven_coal"
+    },
+    "8": {
+      "item": "realms_of_nine:dwarven_coal"
+    }
+  },
+  "result": {
+    "item": "realms_of_nine:dwarven_coal_block",
+    "count": 1
+  }
+}
