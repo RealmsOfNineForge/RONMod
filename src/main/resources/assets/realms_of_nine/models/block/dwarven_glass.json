@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "realms_of_nine:blocks/dwarven_glass_block",
+    "up": "realms_of_nine:blocks/dwarven_glass_block",
+    "north": "realms_of_nine:blocks/dwarven_glass_block",
+    "east": "realms_of_nine:blocks/dwarven_glass_block",
+    "south": "realms_of_nine:blocks/dwarven_glass_block",
+    "west": "realms_of_nine:blocks/dwarven_glass_block",
+    "particle": "realms_of_nine:blocks/dwarven_glass_block"
+  },
+  "render_type": "cutout"
+}

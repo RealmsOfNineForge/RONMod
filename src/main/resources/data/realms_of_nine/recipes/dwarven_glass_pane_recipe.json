@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "realms_of_nine:dwarven_glass"
+    },
+    "1": {
+      "item": "realms_of_nine:dwarven_glass"
+    },
+    "2": {
+      "item": "realms_of_nine:dwarven_glass"
+    },
+    "3": {
+      "item": "realms_of_nine:dwarven_glass"
+    },
+    "4": {
+      "item": "realms_of_nine:dwarven_glass"
+    },
+    "5": {
+      "item": "realms_of_nine:dwarven_glass"
+    }
+  },
+  "result": {
+    "item": "realms_of_nine:dwarven_glass_pane",
+    "count": 16
+  }
+}

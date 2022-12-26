@@ -182,6 +182,9 @@ public class RealmsOfNineModItems {
 	public static final RegistryObject<Item> ASH_BUTTON = block(RealmsOfNineModBlocks.ASH_BUTTON, RealmsOfNineModTabs.TAB_RISE_OF_THE_NINE);
 	public static final RegistryObject<Item> ASH_LEAVES = block(RealmsOfNineModBlocks.ASH_LEAVES, RealmsOfNineModTabs.TAB_RISE_OF_THE_NINE);
 	public static final RegistryObject<Item> ASH_SAPLING = block(RealmsOfNineModBlocks.ASH_SAPLING, RealmsOfNineModTabs.TAB_RISE_OF_THE_NINE);
+	public static final RegistryObject<Item> DWARVEN_GLASS = block(RealmsOfNineModBlocks.DWARVEN_GLASS, RealmsOfNineModTabs.TAB_RISE_OF_THE_NINE);
+	public static final RegistryObject<Item> DWARVEN_GLASS_PANE = block(RealmsOfNineModBlocks.DWARVEN_GLASS_PANE,
+			RealmsOfNineModTabs.TAB_RISE_OF_THE_NINE);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));

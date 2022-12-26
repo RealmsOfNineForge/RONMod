@@ -22,6 +22,8 @@ import net.mcreator.realmsofnine.block.Midgardian_SteelBlockBlock;
 import net.mcreator.realmsofnine.block.MidgardPortalBlock;
 import net.mcreator.realmsofnine.block.DwarvenMetalOreBlock;
 import net.mcreator.realmsofnine.block.DwarvenMetalBlockBlock;
+import net.mcreator.realmsofnine.block.DwarvenGlassPaneBlock;
+import net.mcreator.realmsofnine.block.DwarvenGlassBlock;
 import net.mcreator.realmsofnine.block.DwarvenCoalOreBlock;
 import net.mcreator.realmsofnine.block.DwarvenCoalBlockBlock;
 import net.mcreator.realmsofnine.block.DeepslateDwarvenMetalOreBlock;
@@ -78,4 +80,6 @@ public class RealmsOfNineModBlocks {
 	public static final RegistryObject<Block> ASH_BUTTON = REGISTRY.register("ash_button", () -> new AshButtonBlock());
 	public static final RegistryObject<Block> ASH_LEAVES = REGISTRY.register("ash_leaves", () -> new AshLeavesBlock());
 	public static final RegistryObject<Block> ASH_SAPLING = REGISTRY.register("ash_sapling", () -> new AshSaplingBlock());
+	public static final RegistryObject<Block> DWARVEN_GLASS = REGISTRY.register("dwarven_glass", () -> new DwarvenGlassBlock());
+	public static final RegistryObject<Block> DWARVEN_GLASS_PANE = REGISTRY.register("dwarven_glass_pane", () -> new DwarvenGlassPaneBlock());
 }
